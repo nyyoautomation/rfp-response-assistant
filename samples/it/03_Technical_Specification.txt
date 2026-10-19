@@ -1,0 +1,24 @@
+--- Page 1 ---
+TECHNICAL SPECIFICATION
+Riverton Regional Health Network (fictional) · RRHN-IT-2026-04
+
+1. Purpose
+This specification sets out the minimum requirements for: managed it service desk and end-user support. 'Shall' means a mandatory requirement; 'should' means a desirable requirement that will be considered in scoring.
+
+2. Requirements (part 1)
+2.1 Service desk. The service desk shall operate 24 hours a day, 7 days a week, by phone, email and self-service portal.
+2.2 Service levels. Priority 1 incidents shall be responded to within 15 minutes and resolved or worked around within 4 hours, 24/7.
+2.3 Service levels. At least 70% of service desk tickets should be resolved at first contact, measured monthly.
+
+--- Page 2 ---
+3. Requirements (part 2)
+3.1 On-site. On-site engineers shall attend clinic incidents within 4 business hours when remote fixes fail.
+3.2 Devices. The supplier shall image, deploy and securely wipe devices, and provide a data destruction certificate for every disposed device.
+3.3 Security. All supplier staff shall use multi-factor authentication and named accounts; shared administrator accounts are not permitted.
+
+--- Page 3 ---
+4. Requirements (part 3)
+4.1 Security. Security incidents affecting the Network's data shall be notified to the Network within 24 hours of discovery.
+4.2 Reporting. The supplier shall provide a monthly service report covering ticket volumes, service levels, trends and improvement actions.
+4.3 Languages. The service desk shall provide support in English and Spanish during all opening hours.
+

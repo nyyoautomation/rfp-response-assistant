@@ -1,0 +1,498 @@
+{
+ "key": "facilities",
+ "label": "Facilities & cleaning",
+ "icon": "spray-can",
+ "meta": {
+  "buyer": "Lakeside Metropolitan University (fictional)",
+  "rfp_id": "LMU-FM-2026-07",
+  "title": "Campus cleaning and janitorial services — 3-year contract",
+  "vendor": "Brightway Facility Services (fictional)",
+  "scope": "Daily cleaning, periodic deep cleaning, washroom hygiene and waste segregation across 14 campus buildings (approx. 61,000 m2 / 656,000 sq ft), with an option for two 12-month extensions.",
+  "currency": "USD",
+  "words": 937,
+  "pages": 9
+ },
+ "docs": [
+  {
+   "id": "rfp",
+   "file": "01_RFP_Instructions_to_Bidders.txt",
+   "label": "RFP / Invitation to Tender",
+   "pages": [
+    "REQUEST FOR PROPOSAL — Campus cleaning and janitorial services — 3-year contract\nLakeside Metropolitan University (fictional) · LMU-FM-2026-07\n\n1. Introduction\nLakeside Metropolitan University (fictional) invites proposals for: campus cleaning and janitorial services — 3-year contract.\nScope: Daily cleaning, periodic deep cleaning, washroom hygiene and waste segregation across 14 campus buildings (approx. 61,000 m2 / 656,000 sq ft), with an option for two 12-month extensions.\n\n2. Timetable\nClarification questions close: 2026-11-20 at 17:00\nOptional site walk-through: 2026-11-24 at 10:00\nProposal submission deadline: 2026-12-04 at 12:00\nProposal validity: 120 days after the submission deadline\nPlanned contract start: 2027-02-01\nAll times are local time at the buyer's offices. Late proposals will not be considered.",
+    "3. Evaluation criteria\nProposals will be scored against the criteria and weightings below. Quality questions are scored from 0 to 5 and then weighted.\nQ1 — Service delivery and quality plan — 30% — How the bidder will deliver the specification, inspect quality and fix defects.\nQ2 — Staffing, training and supervision — 20% — Staffing model per building, supervision ratio, training and vetting.\nQ3 — Sustainability and safe chemicals — 15% — Certified low-impact products, waste segregation and reduction of water use.\nQ4 — Mobilisation and continuity — 10% — Transition plan from the incumbent and cover for absence or peaks.\nP1 — Price — 25% — Total evaluated price from the price schedule, scored relative to the lowest compliant bid.\n\n4. Documents to be returned\nBidders shall return the following documents. A proposal missing any mandatory document may be rejected as non-compliant.\n- Signed form of tender (Mandatory)\n- Technical proposal answering Q1 to Q4 (max 20 pages) (Mandatory)\n- Completed price schedule (Mandatory)\n- Proof of insurance cover (Mandatory)\n- Three client references from the last 5 years (Mandatory)\n- Health and safety policy and method statements (Mandatory)\n- Product data sheets for cleaning chemicals (Mandatory)\n- Sample staff rota for one building (Optional)",
+    "5. Instructions to bidders\nProposals shall be submitted in English through the buyer's e-procurement portal. Email submissions will not be accepted.\nQuestions shall be raised through the portal before the clarification deadline. Answers will be shared with all bidders without naming the bidder who asked.\nBidders shall not contact evaluators directly during the procurement. Canvassing will lead to exclusion.\nThe buyer is not bound to accept the lowest priced or any proposal and will not reimburse bid costs."
+   ]
+  },
+  {
+   "id": "tc",
+   "file": "02_Terms_and_Conditions.txt",
+   "label": "Terms and conditions",
+   "pages": [
+    "TERMS AND CONDITIONS OF CONTRACT\nLakeside Metropolitan University (fictional) · LMU-FM-2026-07\n\n1. Definitions and interpretation\nIn these conditions, the Buyer means the contracting authority named above and the Contractor means the successful bidder.\n\n2. Contractor obligations\n2.1 Insurance. The contractor shall hold public liability insurance of at least USD 5,000,000 per occurrence and employer liability insurance as required by law.\n2.2 Background checks. All staff with access to student residences shall pass a background check before deployment.",
+    "3. Commercial terms\n3.1 Payment. Invoices shall be submitted monthly in arrears and will be paid within 30 days of receipt of a valid invoice.\n3.2 Subcontracting. The contractor shall not subcontract any part of the services without the prior written approval of the University.\n\n4. Termination\nEither party may terminate for material breach that is not remedied within 30 days of written notice.\n5. Governing law\nThe contract is governed by the law of the Buyer's jurisdiction."
+   ]
+  },
+  {
+   "id": "spec",
+   "file": "03_Technical_Specification.txt",
+   "label": "Technical specification",
+   "pages": [
+    "TECHNICAL SPECIFICATION\nLakeside Metropolitan University (fictional) · LMU-FM-2026-07\n\n1. Purpose\nThis specification sets out the minimum requirements for: campus cleaning and janitorial services — 3-year contract. 'Shall' means a mandatory requirement; 'should' means a desirable requirement that will be considered in scoring.\n\n2. Requirements (part 1)\n2.1 Scope. The contractor shall clean all teaching rooms, offices and washrooms daily between 06:00 and 09:00, before the start of classes.\n2.2 Quality. The contractor shall carry out monthly joint quality audits with the University and reach an average audit score of at least 85 out of 100.",
+    "3. Requirements (part 2)\n3.1 Response time. Reactive cleaning requests (spills, washroom failures) shall be attended within 30 minutes during staffed hours.\n3.2 Staffing. Each building shall have a named supervisor on site during every shift, with a supervision ratio of no more than one supervisor per 12 cleaning staff.\n3.3 Training. All staff shall complete chemical handling and manual handling training before their first shift, with records available on request.",
+    "4. Requirements (part 3)\n4.1 Sustainability. Cleaning chemicals shall carry a recognised ecolabel and microfibre systems shall be used to reduce water and chemical use.\n4.2 Waste. The contractor shall segregate general waste, mixed recycling and food waste at source and report monthly tonnages.\n4.3 Technology. The bidder should describe any digital tools used to record cleaning tasks, audits and requests in real time."
+   ]
+  },
+  {
+   "id": "price",
+   "file": "04_Price_Schedule.txt",
+   "label": "Price schedule",
+   "pages": [
+    "PRICE SCHEDULE\nLakeside Metropolitan University (fictional) · LMU-FM-2026-07\n\nInstructions\n- Bidders shall complete every line of the price schedule; any blank line will be treated as included at no cost.\n- Prices shall be fixed for the first 12 months and then indexed annually as described in the terms and conditions.\n\nLine | Description | Unit | Estimated quantity | Rate (bidder to complete) | Total\n1 | Daily cleaning — teaching and office space | per month | 12 | [rate] | [total]\n2 | Washroom hygiene services | per month | 12 | [rate] | [total]\n3 | Periodic deep clean (floors, windows, high-level) | per visit | 4 | [rate] | [total]\n4 | Waste segregation and reporting | per month | 12 | [rate] | [total]\n5 | Reactive call-out (outside staffed hours) | per call-out | 24 | [rate] | [total]\n\nQuantities are estimates for evaluation only and are not guaranteed."
+   ]
+  }
+ ],
+ "requirements": [
+  {
+   "id": "R01",
+   "doc": "spec",
+   "page": 1,
+   "category": "Scope",
+   "text": "The contractor shall clean all teaching rooms, offices and washrooms daily between 06:00 and 09:00, before the start of classes.",
+   "kind": "must",
+   "kb": null
+  },
+  {
+   "id": "R02",
+   "doc": "spec",
+   "page": 1,
+   "category": "Quality",
+   "text": "The contractor shall carry out monthly joint quality audits with the University and reach an average audit score of at least 85 out of 100.",
+   "kind": "must",
+   "kb": "kb1"
+  },
+  {
+   "id": "R03",
+   "doc": "spec",
+   "page": 2,
+   "category": "Response time",
+   "text": "Reactive cleaning requests (spills, washroom failures) shall be attended within 30 minutes during staffed hours.",
+   "kind": "must",
+   "kb": "kb2"
+  },
+  {
+   "id": "R04",
+   "doc": "spec",
+   "page": 2,
+   "category": "Staffing",
+   "text": "Each building shall have a named supervisor on site during every shift, with a supervision ratio of no more than one supervisor per 12 cleaning staff.",
+   "kind": "must",
+   "kb": "kb3"
+  },
+  {
+   "id": "R05",
+   "doc": "spec",
+   "page": 2,
+   "category": "Training",
+   "text": "All staff shall complete chemical handling and manual handling training before their first shift, with records available on request.",
+   "kind": "must",
+   "kb": "kb4"
+  },
+  {
+   "id": "R06",
+   "doc": "spec",
+   "page": 3,
+   "category": "Sustainability",
+   "text": "Cleaning chemicals shall carry a recognised ecolabel and microfibre systems shall be used to reduce water and chemical use.",
+   "kind": "must",
+   "kb": "kb5"
+  },
+  {
+   "id": "R07",
+   "doc": "spec",
+   "page": 3,
+   "category": "Waste",
+   "text": "The contractor shall segregate general waste, mixed recycling and food waste at source and report monthly tonnages.",
+   "kind": "should",
+   "kb": "kb6"
+  },
+  {
+   "id": "R08",
+   "doc": "spec",
+   "page": 3,
+   "category": "Technology",
+   "text": "The bidder should describe any digital tools used to record cleaning tasks, audits and requests in real time.",
+   "kind": "should",
+   "kb": "kb9"
+  },
+  {
+   "id": "R09",
+   "doc": "tc",
+   "page": 1,
+   "category": "Insurance",
+   "text": "The contractor shall hold public liability insurance of at least USD 5,000,000 per occurrence and employer liability insurance as required by law.",
+   "kind": "must",
+   "kb": "kb8"
+  },
+  {
+   "id": "R10",
+   "doc": "tc",
+   "page": 1,
+   "category": "Background checks",
+   "text": "All staff with access to student residences shall pass a background check before deployment.",
+   "kind": "must",
+   "kb": "kb10"
+  },
+  {
+   "id": "R11",
+   "doc": "tc",
+   "page": 2,
+   "category": "Payment",
+   "text": "Invoices shall be submitted monthly in arrears and will be paid within 30 days of receipt of a valid invoice.",
+   "kind": "info",
+   "kb": null
+  },
+  {
+   "id": "R12",
+   "doc": "tc",
+   "page": 2,
+   "category": "Subcontracting",
+   "text": "The contractor shall not subcontract any part of the services without the prior written approval of the University.",
+   "kind": "must",
+   "kb": null
+  },
+  {
+   "id": "R13",
+   "doc": "price",
+   "page": 1,
+   "category": "Pricing",
+   "text": "Bidders shall complete every line of the price schedule; any blank line will be treated as included at no cost.",
+   "kind": "must",
+   "kb": null
+  },
+  {
+   "id": "R14",
+   "doc": "price",
+   "page": 1,
+   "category": "Pricing",
+   "text": "Prices shall be fixed for the first 12 months and then indexed annually as described in the terms and conditions.",
+   "kind": "must",
+   "kb": null
+  }
+ ],
+ "criteria": [
+  {
+   "id": "Q1",
+   "name": "Service delivery and quality plan",
+   "weight": 30,
+   "description": "How the bidder will deliver the specification, inspect quality and fix defects.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "Q2",
+   "name": "Staffing, training and supervision",
+   "weight": 20,
+   "description": "Staffing model per building, supervision ratio, training and vetting.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "Q3",
+   "name": "Sustainability and safe chemicals",
+   "weight": 15,
+   "description": "Certified low-impact products, waste segregation and reduction of water use.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "Q4",
+   "name": "Mobilisation and continuity",
+   "weight": 10,
+   "description": "Transition plan from the incumbent and cover for absence or peaks.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "P1",
+   "name": "Price",
+   "weight": 25,
+   "description": "Total evaluated price from the price schedule, scored relative to the lowest compliant bid.",
+   "doc": "rfp",
+   "page": 2
+  }
+ ],
+ "deadlines": [
+  {
+   "label": "Clarification questions close",
+   "date": "2026-11-20",
+   "time": "17:00",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Optional site walk-through",
+   "date": "2026-11-24",
+   "time": "10:00",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Proposal submission deadline",
+   "date": "2026-12-04",
+   "time": "12:00",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Proposal validity",
+   "date": "120 days after the submission deadline",
+   "time": "",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Planned contract start",
+   "date": "2027-02-01",
+   "time": "",
+   "doc": "rfp",
+   "page": 1
+  }
+ ],
+ "documents": [
+  {
+   "id": "D1",
+   "name": "Signed form of tender",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D2",
+   "name": "Technical proposal answering Q1 to Q4 (max 20 pages)",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D3",
+   "name": "Completed price schedule",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D4",
+   "name": "Proof of insurance cover",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D5",
+   "name": "Three client references from the last 5 years",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D6",
+   "name": "Health and safety policy and method statements",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D7",
+   "name": "Product data sheets for cleaning chemicals",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D8",
+   "name": "Sample staff rota for one building",
+   "mandatory": false,
+   "doc": "rfp",
+   "page": 2
+  }
+ ],
+ "kb": [
+  {
+   "id": "kb1",
+   "title": "Past proposal — Riverbend College cleaning contract",
+   "source": "past_proposals/Riverbend_College_2025.pdf",
+   "page": 4,
+   "text": "Our quality plan combines daily self-checks by supervisors, weekly spot checks by the contract manager and monthly joint audits with the client. At Riverbend College the average joint audit score over 2025 was 88 out of 100. Defects found during an audit are fixed within 24 hours and logged."
+  },
+  {
+   "id": "kb2",
+   "title": "Reactive cleaning procedure",
+   "source": "procedures/Reactive_Requests_SOP.pdf",
+   "page": 2,
+   "text": "Reactive requests are logged through a QR code or phone line and dispatched to the nearest cleaner on a handheld device. The target attendance time is 20 minutes during staffed hours, with escalation to the supervisor after 25 minutes."
+  },
+  {
+   "id": "kb3",
+   "title": "Staffing model and supervision",
+   "source": "past_proposals/Riverbend_College_2025.pdf",
+   "page": 9,
+   "text": "Every site has a named supervisor per shift. Our standard ratio is one supervisor for every 10 cleaning staff, and supervisors spend at least half of each shift on the floor."
+  },
+  {
+   "id": "kb4",
+   "title": "Training matrix",
+   "source": "hr/Training_Matrix_2026.xlsx",
+   "page": 1,
+   "text": "Induction covers chemical handling, manual handling, colour-coding, lone working and safeguarding. No one starts a shift before induction is signed off. Refresher training runs every 12 months and records are kept in our HR system."
+  },
+  {
+   "id": "kb5",
+   "title": "Green cleaning policy",
+   "source": "policies/Green_Cleaning_Policy.pdf",
+   "page": 3,
+   "text": "We use ecolabel-certified concentrates dispensed through closed dosing systems and colour-coded microfibre cloths and mops. On a typical site this cuts chemical use and water use compared with traditional mops and buckets."
+  },
+  {
+   "id": "kb6",
+   "title": "Waste segregation reporting",
+   "source": "procedures/Waste_Reporting.pdf",
+   "page": 1,
+   "text": "Waste is segregated at source into general, mixed recycling and food streams. Monthly tonnage reports are shared with the client's sustainability team."
+  },
+  {
+   "id": "kb7",
+   "title": "Mobilisation plan template",
+   "source": "templates/Mobilisation_Plan.docx",
+   "page": 2,
+   "text": "Our 6-week mobilisation covers staff transfer meetings, site surveys, equipment delivery, induction and a two-week shadowing period with the incumbent before go-live."
+  },
+  {
+   "id": "kb8",
+   "title": "Insurance certificate summary",
+   "source": "compliance/Insurance_Summary_2026.pdf",
+   "page": 1,
+   "text": "Public liability cover USD 10,000,000 per occurrence. Employer liability cover as required by law. Certificates are renewed every January."
+  },
+  {
+   "id": "kb9",
+   "title": "Digital task tracking",
+   "source": "past_proposals/Harbor_Offices_2024.pdf",
+   "page": 6,
+   "text": "Cleaners record completed tasks by scanning room QR codes. Audits, requests and completion times are visible to the client on a live dashboard."
+  },
+  {
+   "id": "kb10",
+   "title": "Vetting procedure",
+   "source": "hr/Vetting_Procedure.pdf",
+   "page": 2,
+   "text": "Staff assigned to residential or child-facing areas complete a background check before deployment. Results are stored securely and renewed every three years."
+  }
+ ],
+ "sections": {
+  "Q1": {
+   "title": "Service delivery and quality plan",
+   "bullets": [
+    {
+     "text": "Daily cleaning of teaching rooms, offices and washrooms is completed in the 06:00–09:00 window, before the start of classes.",
+     "cite": null
+    },
+    {
+     "text": "Three-layer quality plan: supervisor self-checks, weekly contract-manager spot checks and monthly joint audits with the University.",
+     "cite": "kb1"
+    },
+    {
+     "text": "Reactive requests are logged by QR code or phone and dispatched to the nearest cleaner, with a 20-minute target, inside the 30-minute requirement.",
+     "cite": "kb2"
+    },
+    {
+     "text": "Tasks, audits and requests are recorded by room QR scan and shown on a live client dashboard.",
+     "cite": "kb9"
+    }
+   ]
+  },
+  "Q2": {
+   "title": "Staffing, training and supervision",
+   "bullets": [
+    {
+     "text": "A named supervisor per building per shift, at a ratio of one supervisor per 10 staff, better than the 1:12 maximum.",
+     "cite": "kb3"
+    },
+    {
+     "text": "No one starts a shift before induction covering chemical and manual handling is signed off; refreshers every 12 months.",
+     "cite": "kb4"
+    },
+    {
+     "text": "Background checks are completed before anyone is deployed to residences.",
+     "cite": "kb10"
+    }
+   ]
+  },
+  "Q3": {
+   "title": "Sustainability and safe chemicals",
+   "bullets": [
+    {
+     "text": "Ecolabel-certified concentrates through closed dosing systems, with colour-coded microfibre to cut water and chemical use.",
+     "cite": "kb5"
+    },
+    {
+     "text": "Waste segregated at source into general, mixed recycling and food streams, with monthly tonnage reports.",
+     "cite": "kb6"
+    }
+   ]
+  },
+  "Q4": {
+   "title": "Mobilisation and continuity",
+   "bullets": [
+    {
+     "text": "A 6-week mobilisation: staff transfer meetings, site surveys, equipment delivery, induction and two weeks of shadowing before go-live.",
+     "cite": "kb7"
+    },
+    {
+     "text": "Absence and peak cover from a trained relief pool under the same supervisors.",
+     "cite": null
+    }
+   ]
+  },
+  "P1": {
+   "title": "Price",
+   "bullets": [
+    {
+     "text": "Every line of the price schedule is completed; rates are fixed for 12 months, then indexed as set out in the terms.",
+     "cite": null
+    }
+   ]
+  }
+ },
+ "price_lines": [
+  {
+   "desc": "Daily cleaning — teaching and office space",
+   "unit": "per month",
+   "qty": 12,
+   "rate": 38500
+  },
+  {
+   "desc": "Washroom hygiene services",
+   "unit": "per month",
+   "qty": 12,
+   "rate": 9200
+  },
+  {
+   "desc": "Periodic deep clean (floors, windows, high-level)",
+   "unit": "per visit",
+   "qty": 4,
+   "rate": 14800
+  },
+  {
+   "desc": "Waste segregation and reporting",
+   "unit": "per month",
+   "qty": 12,
+   "rate": 2100
+  },
+  {
+   "desc": "Reactive call-out (outside staffed hours)",
+   "unit": "per call-out",
+   "qty": 24,
+   "rate": 180
+  }
+ ]
+}

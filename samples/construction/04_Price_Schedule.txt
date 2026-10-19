@@ -1,0 +1,17 @@
+--- Page 1 ---
+PRICE SCHEDULE
+Westmark City Council (fictional) · WCC-CW-2026-19
+
+Instructions
+- Bidders shall price every item of the bill of quantities; the contractor's prices are fixed for the duration of the works.
+- Any variant shall be priced separately and shall not be included in the base bid total.
+
+Line | Description | Unit | Estimated quantity | Rate (bidder to complete) | Total
+1 | Preliminaries and site set-up | fixed | 1 | [rate] | [total]
+2 | Roof insulation and membrane | per m2 | 2,400 | [rate] | [total]
+3 | Ventilation with heat recovery | fixed | 1 | [rate] | [total]
+4 | Sports floor replacement | per m2 | 1,450 | [rate] | [total]
+5 | Accessible changing rooms fit-out | fixed | 1 | [rate] | [total]
+
+Quantities are estimates for evaluation only and are not guaranteed.
+

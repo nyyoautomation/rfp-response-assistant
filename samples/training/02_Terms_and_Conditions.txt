@@ -1,0 +1,21 @@
+--- Page 1 ---
+TERMS AND CONDITIONS OF CONTRACT
+Port of Easthaven Authority (fictional) · PEA-LD-2026-02
+
+1. Definitions and interpretation
+In these conditions, the Buyer means the contracting authority named above and the Contractor means the successful bidder.
+
+2. Contractor obligations
+2.1 Intellectual property. Materials created specifically for the Authority shall be licensed to the Authority for unlimited internal use.
+2.2 Insurance. The supplier shall hold public liability insurance of at least USD 2,000,000 and professional indemnity of at least USD 1,000,000.
+
+--- Page 2 ---
+3. Commercial terms
+3.1 Data protection. Learner data shall be stored in the agreed data region and deleted 12 months after contract end unless the Authority requests otherwise.
+3.2 Payment. Payment is made against agreed milestones within 30 days of a valid invoice.
+
+4. Termination
+Either party may terminate for material breach that is not remedied within 30 days of written notice.
+5. Governing law
+The contract is governed by the law of the Buyer's jurisdiction.
+

@@ -1,0 +1,499 @@
+{
+ "key": "construction",
+ "label": "Construction",
+ "icon": "hard-hat",
+ "meta": {
+  "buyer": "Westmark City Council (fictional)",
+  "rfp_id": "WCC-CW-2026-19",
+  "title": "Community sports hall refurbishment — design and build",
+  "vendor": "Apex Build Co. (fictional)",
+  "scope": "Refurbishment of a 2,400 m2 (25,800 sq ft) community sports hall: roof insulation and membrane, new ventilation with heat recovery, sports floor replacement and accessible changing rooms, with the hall closed for no more than 14 weeks.",
+  "currency": "USD",
+  "words": 901,
+  "pages": 9
+ },
+ "docs": [
+  {
+   "id": "rfp",
+   "file": "01_RFP_Instructions_to_Bidders.txt",
+   "label": "RFP / Invitation to Tender",
+   "pages": [
+    "REQUEST FOR PROPOSAL — Community sports hall refurbishment — design and build\nWestmark City Council (fictional) · WCC-CW-2026-19\n\n1. Introduction\nWestmark City Council (fictional) invites proposals for: community sports hall refurbishment — design and build.\nScope: Refurbishment of a 2,400 m2 (25,800 sq ft) community sports hall: roof insulation and membrane, new ventilation with heat recovery, sports floor replacement and accessible changing rooms, with the hall closed for no more than 14 weeks.\n\n2. Timetable\nClarification questions close: 2026-11-17 at 17:00\nMandatory site visit: 2026-11-20 at 09:30\nProposal submission deadline: 2026-12-01 at 12:00\nProposal validity: 120 days after the submission deadline\nPlanned start on site: 2027-04-06\nAll times are local time at the buyer's offices. Late proposals will not be considered.",
+    "3. Evaluation criteria\nProposals will be scored against the criteria and weightings below. Quality questions are scored from 0 to 5 and then weighted.\nQ1 — Technical approach and methodology — 30% — Method statements for roof, ventilation, floor and changing rooms, and how quality is controlled.\nQ2 — Programme and phasing — 15% — Realistic programme within the 14-week closure, with phasing and float.\nQ3 — Project team and experience — 15% — Named project manager, site team and similar projects.\nQ4 — Health, safety and environment — 10% — Site safety, waste management and disruption to neighbours.\nP1 — Price — 30% — Total evaluated price from the priced bill of quantities.\n\n4. Documents to be returned\nBidders shall return the following documents. A proposal missing any mandatory document may be rejected as non-compliant.\n- Signed form of tender (Mandatory)\n- Technical proposal answering Q1 to Q4 (max 25 pages) (Mandatory)\n- Priced bill of quantities (Mandatory)\n- Outline construction programme (Mandatory)\n- Proof of insurance cover (Mandatory)\n- Health and safety policy (Mandatory)\n- Three similar project references (Mandatory)\n- Priced variant for heat-recovery upgrade (Optional)",
+    "5. Instructions to bidders\nProposals shall be submitted in English through the buyer's e-procurement portal. Email submissions will not be accepted.\nQuestions shall be raised through the portal before the clarification deadline. Answers will be shared with all bidders without naming the bidder who asked.\nBidders shall not contact evaluators directly during the procurement. Canvassing will lead to exclusion.\nThe buyer is not bound to accept the lowest priced or any proposal and will not reimburse bid costs."
+   ]
+  },
+  {
+   "id": "tc",
+   "file": "02_Terms_and_Conditions.txt",
+   "label": "Terms and conditions",
+   "pages": [
+    "TERMS AND CONDITIONS OF CONTRACT\nWestmark City Council (fictional) · WCC-CW-2026-19\n\n1. Definitions and interpretation\nIn these conditions, the Buyer means the contracting authority named above and the Contractor means the successful bidder.\n\n2. Contractor obligations\n2.1 Insurance. The contractor shall hold contractor's all risks, public liability of at least USD 10,000,000 and employer liability insurance.\n2.2 Retention. A retention of 5% will be held on each payment and released half at completion and half after the 12-month defects period.",
+    "3. Commercial terms\n3.1 Subcontracting. The contractor shall name key subcontractors in the proposal and shall not change them without approval.\n3.2 Payment. Interim payments are made monthly against certified valuations within 30 days.\n\n4. Termination\nEither party may terminate for material breach that is not remedied within 30 days of written notice.\n5. Governing law\nThe contract is governed by the law of the Buyer's jurisdiction."
+   ]
+  },
+  {
+   "id": "spec",
+   "file": "03_Technical_Specification.txt",
+   "label": "Technical specification",
+   "pages": [
+    "TECHNICAL SPECIFICATION\nWestmark City Council (fictional) · WCC-CW-2026-19\n\n1. Purpose\nThis specification sets out the minimum requirements for: community sports hall refurbishment — design and build. 'Shall' means a mandatory requirement; 'should' means a desirable requirement that will be considered in scoring.\n\n2. Requirements (part 1)\n2.1 Programme. The hall shall be closed to the public for no more than 14 consecutive weeks, and the changing rooms shall be usable by week 10.\n2.2 Roof. The roof build-up shall achieve a thermal transmittance (U-value) of 0.18 W/m2K or better.\n2.3 Ventilation. The new ventilation system shall include heat recovery with a seasonal efficiency of at least 75%.",
+    "3. Requirements (part 2)\n3.1 Floor. The sports floor shall meet the performance class for multi-sport use set out in Annex D and be tested after installation.\n3.2 Accessibility. Changing rooms shall include at least two accessible cubicles and one adult changing facility.\n3.3 Quality. The contractor shall operate inspection and test plans for each work package and share them weekly.",
+    "4. Requirements (part 3)\n4.1 Waste. At least 70% of construction waste by weight should be diverted from landfill, with monthly reporting.\n4.2 Neighbours. Noisy works shall be limited to 08:00–18:00 on weekdays and 08:00–13:00 on Saturdays.\n4.3 Information. The contractor should provide a building information model (BIM) of the completed works at handover."
+   ]
+  },
+  {
+   "id": "price",
+   "file": "04_Price_Schedule.txt",
+   "label": "Price schedule",
+   "pages": [
+    "PRICE SCHEDULE\nWestmark City Council (fictional) · WCC-CW-2026-19\n\nInstructions\n- Bidders shall price every item of the bill of quantities; the contractor's prices are fixed for the duration of the works.\n- Any variant shall be priced separately and shall not be included in the base bid total.\n\nLine | Description | Unit | Estimated quantity | Rate (bidder to complete) | Total\n1 | Preliminaries and site set-up | fixed | 1 | [rate] | [total]\n2 | Roof insulation and membrane | per m2 | 2,400 | [rate] | [total]\n3 | Ventilation with heat recovery | fixed | 1 | [rate] | [total]\n4 | Sports floor replacement | per m2 | 1,450 | [rate] | [total]\n5 | Accessible changing rooms fit-out | fixed | 1 | [rate] | [total]\n\nQuantities are estimates for evaluation only and are not guaranteed."
+   ]
+  }
+ ],
+ "requirements": [
+  {
+   "id": "R01",
+   "doc": "spec",
+   "page": 1,
+   "category": "Programme",
+   "text": "The hall shall be closed to the public for no more than 14 consecutive weeks, and the changing rooms shall be usable by week 10.",
+   "kind": "must",
+   "kb": "kb10"
+  },
+  {
+   "id": "R02",
+   "doc": "spec",
+   "page": 1,
+   "category": "Roof",
+   "text": "The roof build-up shall achieve a thermal transmittance (U-value) of 0.18 W/m2K or better.",
+   "kind": "must",
+   "kb": "kb2"
+  },
+  {
+   "id": "R03",
+   "doc": "spec",
+   "page": 1,
+   "category": "Ventilation",
+   "text": "The new ventilation system shall include heat recovery with a seasonal efficiency of at least 75%.",
+   "kind": "must",
+   "kb": "kb3"
+  },
+  {
+   "id": "R04",
+   "doc": "spec",
+   "page": 2,
+   "category": "Floor",
+   "text": "The sports floor shall meet the performance class for multi-sport use set out in Annex D and be tested after installation.",
+   "kind": "must",
+   "kb": "kb4"
+  },
+  {
+   "id": "R05",
+   "doc": "spec",
+   "page": 2,
+   "category": "Accessibility",
+   "text": "Changing rooms shall include at least two accessible cubicles and one adult changing facility.",
+   "kind": "must",
+   "kb": "kb5"
+  },
+  {
+   "id": "R06",
+   "doc": "spec",
+   "page": 2,
+   "category": "Quality",
+   "text": "The contractor shall operate inspection and test plans for each work package and share them weekly.",
+   "kind": "must",
+   "kb": "kb6"
+  },
+  {
+   "id": "R07",
+   "doc": "spec",
+   "page": 3,
+   "category": "Waste",
+   "text": "At least 70% of construction waste by weight should be diverted from landfill, with monthly reporting.",
+   "kind": "should",
+   "kb": "kb7"
+  },
+  {
+   "id": "R08",
+   "doc": "spec",
+   "page": 3,
+   "category": "Neighbours",
+   "text": "Noisy works shall be limited to 08:00–18:00 on weekdays and 08:00–13:00 on Saturdays.",
+   "kind": "must",
+   "kb": null
+  },
+  {
+   "id": "R09",
+   "doc": "tc",
+   "page": 1,
+   "category": "Insurance",
+   "text": "The contractor shall hold contractor's all risks, public liability of at least USD 10,000,000 and employer liability insurance.",
+   "kind": "must",
+   "kb": "kb9"
+  },
+  {
+   "id": "R10",
+   "doc": "tc",
+   "page": 1,
+   "category": "Retention",
+   "text": "A retention of 5% will be held on each payment and released half at completion and half after the 12-month defects period.",
+   "kind": "info",
+   "kb": null
+  },
+  {
+   "id": "R11",
+   "doc": "tc",
+   "page": 2,
+   "category": "Subcontracting",
+   "text": "The contractor shall name key subcontractors in the proposal and shall not change them without approval.",
+   "kind": "must",
+   "kb": null
+  },
+  {
+   "id": "R12",
+   "doc": "tc",
+   "page": 2,
+   "category": "Payment",
+   "text": "Interim payments are made monthly against certified valuations within 30 days.",
+   "kind": "info",
+   "kb": null
+  },
+  {
+   "id": "R13",
+   "doc": "price",
+   "page": 1,
+   "category": "Pricing",
+   "text": "Bidders shall price every item of the bill of quantities; the contractor's prices are fixed for the duration of the works.",
+   "kind": "must",
+   "kb": null
+  },
+  {
+   "id": "R14",
+   "doc": "price",
+   "page": 1,
+   "category": "Pricing",
+   "text": "Any variant shall be priced separately and shall not be included in the base bid total.",
+   "kind": "must",
+   "kb": null
+  },
+  {
+   "id": "R15",
+   "doc": "spec",
+   "page": 3,
+   "category": "Information",
+   "text": "The contractor should provide a building information model (BIM) of the completed works at handover.",
+   "kind": "should",
+   "kb": null
+  }
+ ],
+ "criteria": [
+  {
+   "id": "Q1",
+   "name": "Technical approach and methodology",
+   "weight": 30,
+   "description": "Method statements for roof, ventilation, floor and changing rooms, and how quality is controlled.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "Q2",
+   "name": "Programme and phasing",
+   "weight": 15,
+   "description": "Realistic programme within the 14-week closure, with phasing and float.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "Q3",
+   "name": "Project team and experience",
+   "weight": 15,
+   "description": "Named project manager, site team and similar projects.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "Q4",
+   "name": "Health, safety and environment",
+   "weight": 10,
+   "description": "Site safety, waste management and disruption to neighbours.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "P1",
+   "name": "Price",
+   "weight": 30,
+   "description": "Total evaluated price from the priced bill of quantities.",
+   "doc": "rfp",
+   "page": 2
+  }
+ ],
+ "deadlines": [
+  {
+   "label": "Clarification questions close",
+   "date": "2026-11-17",
+   "time": "17:00",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Mandatory site visit",
+   "date": "2026-11-20",
+   "time": "09:30",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Proposal submission deadline",
+   "date": "2026-12-01",
+   "time": "12:00",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Proposal validity",
+   "date": "120 days after the submission deadline",
+   "time": "",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Planned start on site",
+   "date": "2027-04-06",
+   "time": "",
+   "doc": "rfp",
+   "page": 1
+  }
+ ],
+ "documents": [
+  {
+   "id": "D1",
+   "name": "Signed form of tender",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D2",
+   "name": "Technical proposal answering Q1 to Q4 (max 25 pages)",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D3",
+   "name": "Priced bill of quantities",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D4",
+   "name": "Outline construction programme",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D5",
+   "name": "Proof of insurance cover",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D6",
+   "name": "Health and safety policy",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D7",
+   "name": "Three similar project references",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D8",
+   "name": "Priced variant for heat-recovery upgrade",
+   "mandatory": false,
+   "doc": "rfp",
+   "page": 2
+  }
+ ],
+ "kb": [
+  {
+   "id": "kb1",
+   "title": "Past proposal — Northside Leisure Centre",
+   "source": "past_proposals/Northside_Leisure_2024.pdf",
+   "page": 5,
+   "text": "We refurbished a 2,100 m2 leisure centre roof and ventilation in 12 weeks while the pool stayed open, using night-time crane lifts and phased zones."
+  },
+  {
+   "id": "kb2",
+   "title": "Roof specification note",
+   "source": "technical/Roof_Buildup_Note.pdf",
+   "page": 2,
+   "text": "Our standard warm-roof build-up with 200 mm PIR insulation achieves a U-value of 0.15 W/m2K, confirmed by calculation for each project."
+  },
+  {
+   "id": "kb3",
+   "title": "Ventilation supplier data",
+   "source": "technical/AHU_Datasheet.pdf",
+   "page": 3,
+   "text": "The proposed air handling units use counterflow heat exchangers with a seasonal heat recovery efficiency of 82%."
+  },
+  {
+   "id": "kb4",
+   "title": "Sports floor installer references",
+   "source": "technical/Sports_Floor_References.pdf",
+   "page": 1,
+   "text": "Our flooring partner has installed 40 multi-sport floors tested to the relevant performance class after installation."
+  },
+  {
+   "id": "kb5",
+   "title": "Accessible facilities case study",
+   "source": "past_proposals/Eastgate_School_2025.pdf",
+   "page": 8,
+   "text": "At Eastgate School we delivered accessible changing rooms with two accessible cubicles and an adult changing facility, designed with local disability groups."
+  },
+  {
+   "id": "kb6",
+   "title": "Quality management plan",
+   "source": "procedures/Quality_Plan.pdf",
+   "page": 4,
+   "text": "Each work package has an inspection and test plan, signed off at hold points and shared with the client every week."
+  },
+  {
+   "id": "kb7",
+   "title": "Site waste management",
+   "source": "procedures/Site_Waste_Plan.pdf",
+   "page": 2,
+   "text": "On recent projects we diverted 84% of construction waste by weight from landfill, reported monthly."
+  },
+  {
+   "id": "kb8",
+   "title": "Project manager CV",
+   "source": "team/CV_Project_Manager.pdf",
+   "page": 1,
+   "text": "Samira Haddad, project manager, 11 years delivering public-sector refurbishments, including three sports facilities."
+  },
+  {
+   "id": "kb9",
+   "title": "Insurance summary",
+   "source": "compliance/Insurance_Summary_2026.pdf",
+   "page": 1,
+   "text": "Contractor's all risks; public liability USD 10,000,000; employer liability as required by law."
+  },
+  {
+   "id": "kb10",
+   "title": "Programme template",
+   "source": "templates/Programme_14wk.pdf",
+   "page": 1,
+   "text": "A 14-week closure programme: strip-out weeks 1–2, roof and ventilation weeks 2–9, floor weeks 9–12, changing rooms complete by week 9, commissioning weeks 12–14."
+  }
+ ],
+ "sections": {
+  "Q1": {
+   "title": "Technical approach and methodology",
+   "bullets": [
+    {
+     "text": "Warm-roof build-up with 200 mm PIR insulation reaching 0.15 W/m2K, better than the 0.18 required.",
+     "cite": "kb2"
+    },
+    {
+     "text": "Counterflow heat-recovery units with 82% seasonal efficiency, above the 75% minimum.",
+     "cite": "kb3"
+    },
+    {
+     "text": "Inspection and test plans per work package, signed at hold points and shared weekly.",
+     "cite": "kb6"
+    }
+   ]
+  },
+  "Q2": {
+   "title": "Programme and phasing",
+   "bullets": [
+    {
+     "text": "14-week closure programme with the changing rooms complete by week 9, ahead of the week-10 milestone.",
+     "cite": "kb10"
+    },
+    {
+     "text": "Similar delivery at Northside Leisure Centre: roof and ventilation in 12 weeks with phased zones.",
+     "cite": "kb1"
+    }
+   ]
+  },
+  "Q3": {
+   "title": "Project team and experience",
+   "bullets": [
+    {
+     "text": "Named project manager with 11 years in public-sector refurbishments, including three sports facilities.",
+     "cite": "kb8"
+    },
+    {
+     "text": "Accessible changing rooms delivered at Eastgate School with two accessible cubicles and an adult changing facility.",
+     "cite": "kb5"
+    }
+   ]
+  },
+  "Q4": {
+   "title": "Health, safety and environment",
+   "bullets": [
+    {
+     "text": "84% of construction waste diverted from landfill on recent projects, reported monthly.",
+     "cite": "kb7"
+    },
+    {
+     "text": "Noisy works kept to 08:00–18:00 weekdays and 08:00–13:00 Saturdays.",
+     "cite": null
+    }
+   ]
+  },
+  "P1": {
+   "title": "Price",
+   "bullets": [
+    {
+     "text": "Every bill of quantities item priced and fixed for the works; any variant priced separately from the base total.",
+     "cite": null
+    }
+   ]
+  }
+ },
+ "price_lines": [
+  {
+   "desc": "Preliminaries and site set-up",
+   "unit": "fixed",
+   "qty": 1,
+   "rate": 148000
+  },
+  {
+   "desc": "Roof insulation and membrane",
+   "unit": "per m2",
+   "qty": 2400,
+   "rate": 145
+  },
+  {
+   "desc": "Ventilation with heat recovery",
+   "unit": "fixed",
+   "qty": 1,
+   "rate": 286000
+  },
+  {
+   "desc": "Sports floor replacement",
+   "unit": "per m2",
+   "qty": 1450,
+   "rate": 118
+  },
+  {
+   "desc": "Accessible changing rooms fit-out",
+   "unit": "fixed",
+   "qty": 1,
+   "rate": 214000
+  }
+ ]
+}

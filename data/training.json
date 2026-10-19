@@ -1,0 +1,495 @@
+{
+ "key": "training",
+ "label": "Training & learning",
+ "icon": "graduation-cap",
+ "meta": {
+  "buyer": "Port of Easthaven Authority (fictional)",
+  "rfp_id": "PEA-LD-2026-02",
+  "title": "Leadership and safety training programme for operational staff",
+  "vendor": "Summit Learning Partners (fictional)",
+  "scope": "Design and delivery of a blended leadership programme for 120 supervisors and a refreshed safety-awareness course for 900 operational staff, with an online learning platform and impact reporting over 2 years.",
+  "currency": "USD",
+  "words": 908,
+  "pages": 9
+ },
+ "docs": [
+  {
+   "id": "rfp",
+   "file": "01_RFP_Instructions_to_Bidders.txt",
+   "label": "RFP / Invitation to Tender",
+   "pages": [
+    "REQUEST FOR PROPOSAL — Leadership and safety training programme for operational staff\nPort of Easthaven Authority (fictional) · PEA-LD-2026-02\n\n1. Introduction\nPort of Easthaven Authority (fictional) invites proposals for: leadership and safety training programme for operational staff.\nScope: Design and delivery of a blended leadership programme for 120 supervisors and a refreshed safety-awareness course for 900 operational staff, with an online learning platform and impact reporting over 2 years.\n\n2. Timetable\nClarification questions close: 2026-11-23 at 17:00\nProposal submission deadline: 2026-12-07 at 12:00\nShortlisted bidder presentations: 2026-12-15\nProposal validity: 90 days after the submission deadline\nPlanned programme launch: 2027-03-01\nAll times are local time at the buyer's offices. Late proposals will not be considered.",
+    "3. Evaluation criteria\nProposals will be scored against the criteria and weightings below. Quality questions are scored from 0 to 5 and then weighted.\nQ1 — Programme design and learning approach — 30% — Structure, learning methods, alignment with the Authority's competency framework.\nQ2 — Trainers and delivery capacity — 20% — Trainer qualifications, sector experience and capacity across shifts.\nQ3 — Learning platform and accessibility — 15% — Online platform, accessibility, offline access and reporting.\nQ4 — Evaluation and impact — 10% — How learning transfer and business impact are measured and reported.\nP1 — Price — 25% — Total evaluated price from the price schedule.\n\n4. Documents to be returned\nBidders shall return the following documents. A proposal missing any mandatory document may be rejected as non-compliant.\n- Signed form of tender (Mandatory)\n- Technical proposal answering Q1 to Q4 (max 20 pages) (Mandatory)\n- Completed price schedule (Mandatory)\n- Trainer CVs for the proposed team (Mandatory)\n- Sample module outline and materials (Mandatory)\n- Accessibility statement for the platform (Mandatory)\n- Three client references (Mandatory)\n- Sample evaluation report (Optional)",
+    "5. Instructions to bidders\nProposals shall be submitted in English through the buyer's e-procurement portal. Email submissions will not be accepted.\nQuestions shall be raised through the portal before the clarification deadline. Answers will be shared with all bidders without naming the bidder who asked.\nBidders shall not contact evaluators directly during the procurement. Canvassing will lead to exclusion.\nThe buyer is not bound to accept the lowest priced or any proposal and will not reimburse bid costs."
+   ]
+  },
+  {
+   "id": "tc",
+   "file": "02_Terms_and_Conditions.txt",
+   "label": "Terms and conditions",
+   "pages": [
+    "TERMS AND CONDITIONS OF CONTRACT\nPort of Easthaven Authority (fictional) · PEA-LD-2026-02\n\n1. Definitions and interpretation\nIn these conditions, the Buyer means the contracting authority named above and the Contractor means the successful bidder.\n\n2. Contractor obligations\n2.1 Intellectual property. Materials created specifically for the Authority shall be licensed to the Authority for unlimited internal use.\n2.2 Insurance. The supplier shall hold public liability insurance of at least USD 2,000,000 and professional indemnity of at least USD 1,000,000.",
+    "3. Commercial terms\n3.1 Data protection. Learner data shall be stored in the agreed data region and deleted 12 months after contract end unless the Authority requests otherwise.\n3.2 Payment. Payment is made against agreed milestones within 30 days of a valid invoice.\n\n4. Termination\nEither party may terminate for material breach that is not remedied within 30 days of written notice.\n5. Governing law\nThe contract is governed by the law of the Buyer's jurisdiction."
+   ]
+  },
+  {
+   "id": "spec",
+   "file": "03_Technical_Specification.txt",
+   "label": "Technical specification",
+   "pages": [
+    "TECHNICAL SPECIFICATION\nPort of Easthaven Authority (fictional) · PEA-LD-2026-02\n\n1. Purpose\nThis specification sets out the minimum requirements for: leadership and safety training programme for operational staff. 'Shall' means a mandatory requirement; 'should' means a desirable requirement that will be considered in scoring.\n\n2. Requirements (part 1)\n2.1 Design. The leadership programme shall be mapped to the Authority's supervisor competency framework in Annex B, with learning outcomes for each module.\n2.2 Delivery. Face-to-face sessions shall be delivered on site in groups of no more than 16 participants, scheduled around 24/7 shift patterns.\n2.3 Delivery. The safety-awareness course shall be available as a 45-minute e-learning module and as a classroom session for staff without regular computer access.",
+    "3. Requirements (part 2)\n3.1 Trainers. Lead trainers shall hold a recognised training qualification and have at least 5 years' experience in operational or industrial settings.\n3.2 Platform. The learning platform should meet recognised web accessibility guidelines (WCAG 2.1 AA) and work on mobile devices.\n3.3 Platform. Completion records shall be exportable to the Authority's HR system in CSV format at least monthly.",
+    "4. Requirements (part 3)\n4.1 Evaluation. The supplier shall evaluate the programme at reaction, learning and behaviour levels and report results quarterly.\n4.2 Languages. Safety materials should be available in plain English and in two additional languages to be agreed.\n4.3 Account management. The supplier shall provide a named account manager who attends a monthly review meeting on site."
+   ]
+  },
+  {
+   "id": "price",
+   "file": "04_Price_Schedule.txt",
+   "label": "Price schedule",
+   "pages": [
+    "PRICE SCHEDULE\nPort of Easthaven Authority (fictional) · PEA-LD-2026-02\n\nInstructions\n- Bidders shall price design, delivery per cohort, platform licences and evaluation as separate lines.\n- Travel and expenses shall be included in the day rates; no separate expenses will be paid.\n\nLine | Description | Unit | Estimated quantity | Rate (bidder to complete) | Total\n1 | Programme design and materials (one-off) | fixed | 1 | [rate] | [total]\n2 | Leadership cohort delivery (16 participants) | per cohort | 8 | [rate] | [total]\n3 | Safety classroom session | per session | 30 | [rate] | [total]\n4 | Learning platform licence | per learner-year | 1,840 | [rate] | [total]\n5 | Evaluation and quarterly reporting | per quarter | 8 | [rate] | [total]\n\nQuantities are estimates for evaluation only and are not guaranteed."
+   ]
+  }
+ ],
+ "requirements": [
+  {
+   "id": "R01",
+   "doc": "spec",
+   "page": 1,
+   "category": "Design",
+   "text": "The leadership programme shall be mapped to the Authority's supervisor competency framework in Annex B, with learning outcomes for each module.",
+   "kind": "must",
+   "kb": "kb1"
+  },
+  {
+   "id": "R02",
+   "doc": "spec",
+   "page": 1,
+   "category": "Delivery",
+   "text": "Face-to-face sessions shall be delivered on site in groups of no more than 16 participants, scheduled around 24/7 shift patterns.",
+   "kind": "must",
+   "kb": "kb2"
+  },
+  {
+   "id": "R03",
+   "doc": "spec",
+   "page": 1,
+   "category": "Delivery",
+   "text": "The safety-awareness course shall be available as a 45-minute e-learning module and as a classroom session for staff without regular computer access.",
+   "kind": "must",
+   "kb": "kb3"
+  },
+  {
+   "id": "R04",
+   "doc": "spec",
+   "page": 2,
+   "category": "Trainers",
+   "text": "Lead trainers shall hold a recognised training qualification and have at least 5 years' experience in operational or industrial settings.",
+   "kind": "must",
+   "kb": "kb4"
+  },
+  {
+   "id": "R05",
+   "doc": "spec",
+   "page": 2,
+   "category": "Platform",
+   "text": "The learning platform should meet recognised web accessibility guidelines (WCAG 2.1 AA) and work on mobile devices.",
+   "kind": "should",
+   "kb": "kb5"
+  },
+  {
+   "id": "R06",
+   "doc": "spec",
+   "page": 2,
+   "category": "Platform",
+   "text": "Completion records shall be exportable to the Authority's HR system in CSV format at least monthly.",
+   "kind": "must",
+   "kb": "kb6"
+  },
+  {
+   "id": "R07",
+   "doc": "spec",
+   "page": 3,
+   "category": "Evaluation",
+   "text": "The supplier shall evaluate the programme at reaction, learning and behaviour levels and report results quarterly.",
+   "kind": "must",
+   "kb": "kb7"
+  },
+  {
+   "id": "R08",
+   "doc": "spec",
+   "page": 3,
+   "category": "Languages",
+   "text": "Safety materials should be available in plain English and in two additional languages to be agreed.",
+   "kind": "should",
+   "kb": "kb8"
+  },
+  {
+   "id": "R09",
+   "doc": "tc",
+   "page": 1,
+   "category": "Intellectual property",
+   "text": "Materials created specifically for the Authority shall be licensed to the Authority for unlimited internal use.",
+   "kind": "must",
+   "kb": "kb10"
+  },
+  {
+   "id": "R10",
+   "doc": "tc",
+   "page": 1,
+   "category": "Insurance",
+   "text": "The supplier shall hold public liability insurance of at least USD 2,000,000 and professional indemnity of at least USD 1,000,000.",
+   "kind": "must",
+   "kb": "kb9"
+  },
+  {
+   "id": "R11",
+   "doc": "tc",
+   "page": 2,
+   "category": "Data protection",
+   "text": "Learner data shall be stored in the agreed data region and deleted 12 months after contract end unless the Authority requests otherwise.",
+   "kind": "must",
+   "kb": null
+  },
+  {
+   "id": "R12",
+   "doc": "tc",
+   "page": 2,
+   "category": "Payment",
+   "text": "Payment is made against agreed milestones within 30 days of a valid invoice.",
+   "kind": "info",
+   "kb": null
+  },
+  {
+   "id": "R13",
+   "doc": "price",
+   "page": 1,
+   "category": "Pricing",
+   "text": "Bidders shall price design, delivery per cohort, platform licences and evaluation as separate lines.",
+   "kind": "must",
+   "kb": null
+  },
+  {
+   "id": "R14",
+   "doc": "price",
+   "page": 1,
+   "category": "Pricing",
+   "text": "Travel and expenses shall be included in the day rates; no separate expenses will be paid.",
+   "kind": "must",
+   "kb": null
+  },
+  {
+   "id": "R15",
+   "doc": "spec",
+   "page": 3,
+   "category": "Account management",
+   "text": "The supplier shall provide a named account manager who attends a monthly review meeting on site.",
+   "kind": "must",
+   "kb": null
+  }
+ ],
+ "criteria": [
+  {
+   "id": "Q1",
+   "name": "Programme design and learning approach",
+   "weight": 30,
+   "description": "Structure, learning methods, alignment with the Authority's competency framework.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "Q2",
+   "name": "Trainers and delivery capacity",
+   "weight": 20,
+   "description": "Trainer qualifications, sector experience and capacity across shifts.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "Q3",
+   "name": "Learning platform and accessibility",
+   "weight": 15,
+   "description": "Online platform, accessibility, offline access and reporting.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "Q4",
+   "name": "Evaluation and impact",
+   "weight": 10,
+   "description": "How learning transfer and business impact are measured and reported.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "P1",
+   "name": "Price",
+   "weight": 25,
+   "description": "Total evaluated price from the price schedule.",
+   "doc": "rfp",
+   "page": 2
+  }
+ ],
+ "deadlines": [
+  {
+   "label": "Clarification questions close",
+   "date": "2026-11-23",
+   "time": "17:00",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Proposal submission deadline",
+   "date": "2026-12-07",
+   "time": "12:00",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Shortlisted bidder presentations",
+   "date": "2026-12-15",
+   "time": "",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Proposal validity",
+   "date": "90 days after the submission deadline",
+   "time": "",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Planned programme launch",
+   "date": "2027-03-01",
+   "time": "",
+   "doc": "rfp",
+   "page": 1
+  }
+ ],
+ "documents": [
+  {
+   "id": "D1",
+   "name": "Signed form of tender",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D2",
+   "name": "Technical proposal answering Q1 to Q4 (max 20 pages)",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D3",
+   "name": "Completed price schedule",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D4",
+   "name": "Trainer CVs for the proposed team",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D5",
+   "name": "Sample module outline and materials",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D6",
+   "name": "Accessibility statement for the platform",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D7",
+   "name": "Three client references",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D8",
+   "name": "Sample evaluation report",
+   "mandatory": false,
+   "doc": "rfp",
+   "page": 2
+  }
+ ],
+ "kb": [
+  {
+   "id": "kb1",
+   "title": "Past proposal — Coastal Logistics leadership programme",
+   "source": "past_proposals/Coastal_Logistics_2025.pdf",
+   "page": 3,
+   "text": "Every module starts from the client's competency framework. We map each learning outcome to a competency and agree the map with the client before any material is written."
+  },
+  {
+   "id": "kb2",
+   "title": "Delivery model for shift workers",
+   "source": "past_proposals/Coastal_Logistics_2025.pdf",
+   "page": 7,
+   "text": "Workshops run on site in groups of 12 to 14, at times that fit early, late and night shifts, including sessions at 06:30 and 22:00."
+  },
+  {
+   "id": "kb3",
+   "title": "Blended safety course",
+   "source": "products/Safety_Essentials_Course.pdf",
+   "page": 2,
+   "text": "Our safety essentials course runs as a 40-minute mobile-friendly e-learning module or as a facilitated classroom session for teams without computer access."
+  },
+  {
+   "id": "kb4",
+   "title": "Trainer team",
+   "source": "hr/Trainer_Profiles_2026.pdf",
+   "page": 1,
+   "text": "All lead trainers hold a recognised adult-training qualification. The proposed team averages 11 years of experience in ports, logistics and manufacturing."
+  },
+  {
+   "id": "kb5",
+   "title": "Platform accessibility statement",
+   "source": "products/Platform_Accessibility_Statement.pdf",
+   "page": 1,
+   "text": "The learning platform was independently tested against WCAG 2.1 AA in 2026 and works on phones, tablets and desktops, with offline download for mobile users."
+  },
+  {
+   "id": "kb6",
+   "title": "HR integration",
+   "source": "products/Platform_Integrations.pdf",
+   "page": 4,
+   "text": "Completion records can be exported as scheduled CSV files or through an API, daily, weekly or monthly."
+  },
+  {
+   "id": "kb7",
+   "title": "Evaluation framework",
+   "source": "templates/Evaluation_Framework.pdf",
+   "page": 2,
+   "text": "We evaluate at four levels: reaction, learning, behaviour and results. Behaviour change is checked with line managers 90 days after each cohort."
+  },
+  {
+   "id": "kb8",
+   "title": "Translation process",
+   "source": "procedures/Translation_Process.pdf",
+   "page": 1,
+   "text": "Safety content is written in plain English first, then translated by professional translators and checked by a native-speaking subject expert."
+  },
+  {
+   "id": "kb9",
+   "title": "Insurance summary",
+   "source": "compliance/Insurance_Summary_2026.pdf",
+   "page": 1,
+   "text": "Public liability USD 5,000,000; professional indemnity USD 2,000,000."
+  },
+  {
+   "id": "kb10",
+   "title": "Licensing terms",
+   "source": "templates/Standard_Licence_Terms.pdf",
+   "page": 2,
+   "text": "Bespoke materials are licensed to the client for unlimited internal use; our generic course library remains our property and is licensed per learner."
+  }
+ ],
+ "sections": {
+  "Q1": {
+   "title": "Programme design and learning approach",
+   "bullets": [
+    {
+     "text": "Each learning outcome is mapped to the supervisor competency framework in Annex B and agreed before materials are written.",
+     "cite": "kb1"
+    },
+    {
+     "text": "Safety course as a 40-minute mobile e-learning module or a classroom session for staff without computer access.",
+     "cite": "kb3"
+    }
+   ]
+  },
+  "Q2": {
+   "title": "Trainers and delivery capacity",
+   "bullets": [
+    {
+     "text": "On-site groups of 12 to 14, below the 16-participant limit, with sessions at 06:30 and 22:00 to fit shifts.",
+     "cite": "kb2"
+    },
+    {
+     "text": "All lead trainers hold a recognised training qualification; the team averages 11 years in ports, logistics and manufacturing.",
+     "cite": "kb4"
+    }
+   ]
+  },
+  "Q3": {
+   "title": "Learning platform and accessibility",
+   "bullets": [
+    {
+     "text": "Platform independently tested against WCAG 2.1 AA in 2026, mobile-ready with offline download.",
+     "cite": "kb5"
+    },
+    {
+     "text": "Scheduled CSV export of completion records to the HR system, monthly or more often.",
+     "cite": "kb6"
+    }
+   ]
+  },
+  "Q4": {
+   "title": "Evaluation and impact",
+   "bullets": [
+    {
+     "text": "Four-level evaluation, with behaviour checks with line managers 90 days after each cohort and quarterly reports.",
+     "cite": "kb7"
+    },
+    {
+     "text": "Safety content written in plain English, then professionally translated and checked by native-speaking experts.",
+     "cite": "kb8"
+    }
+   ]
+  },
+  "P1": {
+   "title": "Price",
+   "bullets": [
+    {
+     "text": "Design, cohort delivery, platform licences and evaluation are priced as separate lines, with travel included in day rates.",
+     "cite": null
+    }
+   ]
+  }
+ },
+ "price_lines": [
+  {
+   "desc": "Programme design and materials (one-off)",
+   "unit": "fixed",
+   "qty": 1,
+   "rate": 24000
+  },
+  {
+   "desc": "Leadership cohort delivery (16 participants)",
+   "unit": "per cohort",
+   "qty": 8,
+   "rate": 9800
+  },
+  {
+   "desc": "Safety classroom session",
+   "unit": "per session",
+   "qty": 30,
+   "rate": 850
+  },
+  {
+   "desc": "Learning platform licence",
+   "unit": "per learner-year",
+   "qty": 1840,
+   "rate": 14
+  },
+  {
+   "desc": "Evaluation and quarterly reporting",
+   "unit": "per quarter",
+   "qty": 8,
+   "rate": 1900
+  }
+ ]
+}

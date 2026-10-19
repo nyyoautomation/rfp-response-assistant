@@ -1,0 +1,21 @@
+--- Page 1 ---
+TERMS AND CONDITIONS OF CONTRACT
+Riverton Regional Health Network (fictional) · RRHN-IT-2026-04
+
+1. Definitions and interpretation
+In these conditions, the Buyer means the contracting authority named above and the Contractor means the successful bidder.
+
+2. Contractor obligations
+2.1 Data protection. The supplier shall process patient and staff data only on the Network's documented instructions and keep it in the agreed data region.
+2.2 Certification. The supplier should hold a current information security certification or provide a recent independent audit report.
+
+--- Page 2 ---
+3. Commercial terms
+3.1 Insurance. The supplier shall hold professional indemnity and cyber liability insurance of at least USD 5,000,000 each.
+3.2 Payment. Charges are invoiced monthly and paid within 30 days; service credits apply when service levels are missed.
+
+4. Termination
+Either party may terminate for material breach that is not remedied within 30 days of written notice.
+5. Governing law
+The contract is governed by the law of the Buyer's jurisdiction.
+

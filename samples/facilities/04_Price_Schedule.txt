@@ -1,0 +1,17 @@
+--- Page 1 ---
+PRICE SCHEDULE
+Lakeside Metropolitan University (fictional) · LMU-FM-2026-07
+
+Instructions
+- Bidders shall complete every line of the price schedule; any blank line will be treated as included at no cost.
+- Prices shall be fixed for the first 12 months and then indexed annually as described in the terms and conditions.
+
+Line | Description | Unit | Estimated quantity | Rate (bidder to complete) | Total
+1 | Daily cleaning — teaching and office space | per month | 12 | [rate] | [total]
+2 | Washroom hygiene services | per month | 12 | [rate] | [total]
+3 | Periodic deep clean (floors, windows, high-level) | per visit | 4 | [rate] | [total]
+4 | Waste segregation and reporting | per month | 12 | [rate] | [total]
+5 | Reactive call-out (outside staffed hours) | per call-out | 24 | [rate] | [total]
+
+Quantities are estimates for evaluation only and are not guaranteed.
+

@@ -1,0 +1,17 @@
+--- Page 1 ---
+PRICE SCHEDULE
+Harbor County Transit Authority (fictional) · HCTA-SEC-2026-11
+
+Instructions
+- Bidders shall price every line of the schedule using hourly rates that include all wages, overheads and margin.
+- Overtime and holiday rates shall be stated separately and shall not exceed 1.5 times the standard rate.
+
+Line | Description | Unit | Estimated quantity | Rate (bidder to complete) | Total
+1 | Manned guarding — depots (hourly rate x hours) | per hour | 26,280 | [rate] | [total]
+2 | Mobile patrol service | per night | 365 | [rate] | [total]
+3 | CCTV monitoring support | per month | 12 | [rate] | [total]
+4 | Additional officer on request | per hour | 600 | [rate] | [total]
+5 | Contract management and reporting | per month | 12 | [rate] | [total]
+
+Quantities are estimates for evaluation only and are not guaranteed.
+

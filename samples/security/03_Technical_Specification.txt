@@ -1,0 +1,24 @@
+--- Page 1 ---
+TECHNICAL SPECIFICATION
+Harbor County Transit Authority (fictional) · HCTA-SEC-2026-11
+
+1. Purpose
+This specification sets out the minimum requirements for: manned guarding and mobile patrol services for stations and depots. 'Shall' means a mandatory requirement; 'should' means a desirable requirement that will be considered in scoring.
+
+2. Requirements (part 1)
+2.1 Coverage. The contractor shall provide 24-hour, 7-day manned guarding at each depot listed in Annex A, with no post left unattended during shift changes.
+2.2 Patrols. Mobile patrol vehicles shall visit every station at least four times per night between 22:00 and 06:00, with each visit recorded electronically.
+2.3 Licensing. Every officer shall hold a valid security licence for the role before deployment and carry it while on duty.
+
+--- Page 2 ---
+3. Requirements (part 2)
+3.1 Training. Officers shall complete conflict de-escalation and first aid training before deployment and refresh it at least every 24 months.
+3.2 Incidents. Serious incidents shall be reported by phone to the Authority's control room within 15 minutes and in writing within 24 hours.
+3.3 Supervision. A shift supervisor shall be on duty at all times and shall make at least one welfare check per officer per shift.
+
+--- Page 3 ---
+4. Requirements (part 3)
+4.1 Technology. The bidder should describe the guard-tour and reporting system used and how the Authority can access live data.
+4.2 Contingency. The contractor shall be able to supply up to 10 additional officers within 12 hours for special events or emergencies.
+4.3 Station procedures. Officers deployed at stations shall be trained in the Authority's evacuation procedures within their first week on site.
+

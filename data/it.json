@@ -1,0 +1,499 @@
+{
+ "key": "it",
+ "label": "IT services",
+ "icon": "server",
+ "meta": {
+  "buyer": "Riverton Regional Health Network (fictional)",
+  "rfp_id": "RRHN-IT-2026-04",
+  "title": "Managed IT service desk and end-user support",
+  "vendor": "Clearpath Managed IT (fictional)",
+  "scope": "24/7 service desk, on-site end-user support at 6 clinics, device lifecycle management for about 2,400 devices and monthly service reporting, for a 3-year term with an optional 2-year extension.",
+  "currency": "USD",
+  "words": 915,
+  "pages": 9
+ },
+ "docs": [
+  {
+   "id": "rfp",
+   "file": "01_RFP_Instructions_to_Bidders.txt",
+   "label": "RFP / Invitation to Tender",
+   "pages": [
+    "REQUEST FOR PROPOSAL — Managed IT service desk and end-user support\nRiverton Regional Health Network (fictional) · RRHN-IT-2026-04\n\n1. Introduction\nRiverton Regional Health Network (fictional) invites proposals for: managed it service desk and end-user support.\nScope: 24/7 service desk, on-site end-user support at 6 clinics, device lifecycle management for about 2,400 devices and monthly service reporting, for a 3-year term with an optional 2-year extension.\n\n2. Timetable\nClarification questions close: 2026-11-16 at 17:00\nSupplier Q&A session (online): 2026-11-19 at 15:00\nProposal submission deadline: 2026-11-30 at 12:00\nShortlisted bidder demonstrations: 2026-12-09\nProposal validity: 90 days after the submission deadline\nAll times are local time at the buyer's offices. Late proposals will not be considered.",
+    "3. Evaluation criteria\nProposals will be scored against the criteria and weightings below. Quality questions are scored from 0 to 5 and then weighted.\nQ1 — Service desk model and service levels — 30% — How the desk is staffed, how tickets flow and how service levels are met and reported.\nQ2 — Security and data protection — 20% — Access control, patient data protection, incident response and certifications.\nQ3 — On-site support and device lifecycle — 15% — Clinic support model, device imaging, repair and secure disposal.\nQ4 — Transition and continuous improvement — 10% — Knowledge transfer from the incumbent and how the service improves over time.\nP1 — Price — 25% — Total evaluated price from the price schedule.\n\n4. Documents to be returned\nBidders shall return the following documents. A proposal missing any mandatory document may be rejected as non-compliant.\n- Signed form of tender (Mandatory)\n- Technical proposal answering Q1 to Q4 (max 30 pages) (Mandatory)\n- Completed price schedule (Mandatory)\n- Information security certificate or audit report (Mandatory)\n- Completed security questionnaire (Annex C) (Mandatory)\n- Draft service level agreement (Mandatory)\n- Three client references (Mandatory)\n- Sample monthly service report (Optional)",
+    "5. Instructions to bidders\nProposals shall be submitted in English through the buyer's e-procurement portal. Email submissions will not be accepted.\nQuestions shall be raised through the portal before the clarification deadline. Answers will be shared with all bidders without naming the bidder who asked.\nBidders shall not contact evaluators directly during the procurement. Canvassing will lead to exclusion.\nThe buyer is not bound to accept the lowest priced or any proposal and will not reimburse bid costs."
+   ]
+  },
+  {
+   "id": "tc",
+   "file": "02_Terms_and_Conditions.txt",
+   "label": "Terms and conditions",
+   "pages": [
+    "TERMS AND CONDITIONS OF CONTRACT\nRiverton Regional Health Network (fictional) · RRHN-IT-2026-04\n\n1. Definitions and interpretation\nIn these conditions, the Buyer means the contracting authority named above and the Contractor means the successful bidder.\n\n2. Contractor obligations\n2.1 Data protection. The supplier shall process patient and staff data only on the Network's documented instructions and keep it in the agreed data region.\n2.2 Certification. The supplier should hold a current information security certification or provide a recent independent audit report.",
+    "3. Commercial terms\n3.1 Insurance. The supplier shall hold professional indemnity and cyber liability insurance of at least USD 5,000,000 each.\n3.2 Payment. Charges are invoiced monthly and paid within 30 days; service credits apply when service levels are missed.\n\n4. Termination\nEither party may terminate for material breach that is not remedied within 30 days of written notice.\n5. Governing law\nThe contract is governed by the law of the Buyer's jurisdiction."
+   ]
+  },
+  {
+   "id": "spec",
+   "file": "03_Technical_Specification.txt",
+   "label": "Technical specification",
+   "pages": [
+    "TECHNICAL SPECIFICATION\nRiverton Regional Health Network (fictional) · RRHN-IT-2026-04\n\n1. Purpose\nThis specification sets out the minimum requirements for: managed it service desk and end-user support. 'Shall' means a mandatory requirement; 'should' means a desirable requirement that will be considered in scoring.\n\n2. Requirements (part 1)\n2.1 Service desk. The service desk shall operate 24 hours a day, 7 days a week, by phone, email and self-service portal.\n2.2 Service levels. Priority 1 incidents shall be responded to within 15 minutes and resolved or worked around within 4 hours, 24/7.\n2.3 Service levels. At least 70% of service desk tickets should be resolved at first contact, measured monthly.",
+    "3. Requirements (part 2)\n3.1 On-site. On-site engineers shall attend clinic incidents within 4 business hours when remote fixes fail.\n3.2 Devices. The supplier shall image, deploy and securely wipe devices, and provide a data destruction certificate for every disposed device.\n3.3 Security. All supplier staff shall use multi-factor authentication and named accounts; shared administrator accounts are not permitted.",
+    "4. Requirements (part 3)\n4.1 Security. Security incidents affecting the Network's data shall be notified to the Network within 24 hours of discovery.\n4.2 Reporting. The supplier shall provide a monthly service report covering ticket volumes, service levels, trends and improvement actions.\n4.3 Languages. The service desk shall provide support in English and Spanish during all opening hours."
+   ]
+  },
+  {
+   "id": "price",
+   "file": "04_Price_Schedule.txt",
+   "label": "Price schedule",
+   "pages": [
+    "PRICE SCHEDULE\nRiverton Regional Health Network (fictional) · RRHN-IT-2026-04\n\nInstructions\n- Prices shall be quoted per device per month for the core service, with optional services priced separately.\n- Transition costs shall be shown as a one-off line and not spread into monthly charges.\n\nLine | Description | Unit | Estimated quantity | Rate (bidder to complete) | Total\n1 | Core service desk and support — per device per month | per device-month | 28,800 | [rate] | [total]\n2 | On-site clinic support (6 clinics) | per month | 12 | [rate] | [total]\n3 | Device imaging and deployment | per device | 600 | [rate] | [total]\n4 | Secure disposal with certificate | per device | 400 | [rate] | [total]\n5 | Transition (one-off) | fixed | 1 | [rate] | [total]\n\nQuantities are estimates for evaluation only and are not guaranteed."
+   ]
+  }
+ ],
+ "requirements": [
+  {
+   "id": "R01",
+   "doc": "spec",
+   "page": 1,
+   "category": "Service desk",
+   "text": "The service desk shall operate 24 hours a day, 7 days a week, by phone, email and self-service portal.",
+   "kind": "must",
+   "kb": "kb1"
+  },
+  {
+   "id": "R02",
+   "doc": "spec",
+   "page": 1,
+   "category": "Service levels",
+   "text": "Priority 1 incidents shall be responded to within 15 minutes and resolved or worked around within 4 hours, 24/7.",
+   "kind": "must",
+   "kb": "kb2"
+  },
+  {
+   "id": "R03",
+   "doc": "spec",
+   "page": 1,
+   "category": "Service levels",
+   "text": "At least 70% of service desk tickets should be resolved at first contact, measured monthly.",
+   "kind": "should",
+   "kb": "kb2"
+  },
+  {
+   "id": "R04",
+   "doc": "spec",
+   "page": 2,
+   "category": "On-site",
+   "text": "On-site engineers shall attend clinic incidents within 4 business hours when remote fixes fail.",
+   "kind": "must",
+   "kb": "kb3"
+  },
+  {
+   "id": "R05",
+   "doc": "spec",
+   "page": 2,
+   "category": "Devices",
+   "text": "The supplier shall image, deploy and securely wipe devices, and provide a data destruction certificate for every disposed device.",
+   "kind": "must",
+   "kb": "kb4"
+  },
+  {
+   "id": "R06",
+   "doc": "spec",
+   "page": 2,
+   "category": "Security",
+   "text": "All supplier staff shall use multi-factor authentication and named accounts; shared administrator accounts are not permitted.",
+   "kind": "must",
+   "kb": "kb5"
+  },
+  {
+   "id": "R07",
+   "doc": "spec",
+   "page": 3,
+   "category": "Security",
+   "text": "Security incidents affecting the Network's data shall be notified to the Network within 24 hours of discovery.",
+   "kind": "must",
+   "kb": "kb6"
+  },
+  {
+   "id": "R08",
+   "doc": "spec",
+   "page": 3,
+   "category": "Reporting",
+   "text": "The supplier shall provide a monthly service report covering ticket volumes, service levels, trends and improvement actions.",
+   "kind": "must",
+   "kb": "kb7"
+  },
+  {
+   "id": "R09",
+   "doc": "tc",
+   "page": 1,
+   "category": "Data protection",
+   "text": "The supplier shall process patient and staff data only on the Network's documented instructions and keep it in the agreed data region.",
+   "kind": "must",
+   "kb": null
+  },
+  {
+   "id": "R10",
+   "doc": "tc",
+   "page": 1,
+   "category": "Certification",
+   "text": "The supplier should hold a current information security certification or provide a recent independent audit report.",
+   "kind": "should",
+   "kb": "kb8"
+  },
+  {
+   "id": "R11",
+   "doc": "tc",
+   "page": 2,
+   "category": "Insurance",
+   "text": "The supplier shall hold professional indemnity and cyber liability insurance of at least USD 5,000,000 each.",
+   "kind": "must",
+   "kb": "kb9"
+  },
+  {
+   "id": "R12",
+   "doc": "tc",
+   "page": 2,
+   "category": "Payment",
+   "text": "Charges are invoiced monthly and paid within 30 days; service credits apply when service levels are missed.",
+   "kind": "info",
+   "kb": null
+  },
+  {
+   "id": "R13",
+   "doc": "price",
+   "page": 1,
+   "category": "Pricing",
+   "text": "Prices shall be quoted per device per month for the core service, with optional services priced separately.",
+   "kind": "must",
+   "kb": null
+  },
+  {
+   "id": "R14",
+   "doc": "price",
+   "page": 1,
+   "category": "Pricing",
+   "text": "Transition costs shall be shown as a one-off line and not spread into monthly charges.",
+   "kind": "must",
+   "kb": null
+  },
+  {
+   "id": "R15",
+   "doc": "spec",
+   "page": 3,
+   "category": "Languages",
+   "text": "The service desk shall provide support in English and Spanish during all opening hours.",
+   "kind": "must",
+   "kb": null
+  }
+ ],
+ "criteria": [
+  {
+   "id": "Q1",
+   "name": "Service desk model and service levels",
+   "weight": 30,
+   "description": "How the desk is staffed, how tickets flow and how service levels are met and reported.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "Q2",
+   "name": "Security and data protection",
+   "weight": 20,
+   "description": "Access control, patient data protection, incident response and certifications.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "Q3",
+   "name": "On-site support and device lifecycle",
+   "weight": 15,
+   "description": "Clinic support model, device imaging, repair and secure disposal.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "Q4",
+   "name": "Transition and continuous improvement",
+   "weight": 10,
+   "description": "Knowledge transfer from the incumbent and how the service improves over time.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "P1",
+   "name": "Price",
+   "weight": 25,
+   "description": "Total evaluated price from the price schedule.",
+   "doc": "rfp",
+   "page": 2
+  }
+ ],
+ "deadlines": [
+  {
+   "label": "Clarification questions close",
+   "date": "2026-11-16",
+   "time": "17:00",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Supplier Q&A session (online)",
+   "date": "2026-11-19",
+   "time": "15:00",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Proposal submission deadline",
+   "date": "2026-11-30",
+   "time": "12:00",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Shortlisted bidder demonstrations",
+   "date": "2026-12-09",
+   "time": "",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Proposal validity",
+   "date": "90 days after the submission deadline",
+   "time": "",
+   "doc": "rfp",
+   "page": 1
+  }
+ ],
+ "documents": [
+  {
+   "id": "D1",
+   "name": "Signed form of tender",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D2",
+   "name": "Technical proposal answering Q1 to Q4 (max 30 pages)",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D3",
+   "name": "Completed price schedule",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D4",
+   "name": "Information security certificate or audit report",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D5",
+   "name": "Completed security questionnaire (Annex C)",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D6",
+   "name": "Draft service level agreement",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D7",
+   "name": "Three client references",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D8",
+   "name": "Sample monthly service report",
+   "mandatory": false,
+   "doc": "rfp",
+   "page": 2
+  }
+ ],
+ "kb": [
+  {
+   "id": "kb1",
+   "title": "Past proposal — Meadowbrook Care Group",
+   "source": "past_proposals/Meadowbrook_Care_2025.pdf",
+   "page": 6,
+   "text": "Our service desk runs 24/7 from two hubs, by phone, email, chat and a self-service portal. Calls are answered by engineers, not dispatchers, so most issues are fixed on the first call."
+  },
+  {
+   "id": "kb2",
+   "title": "Service level history",
+   "source": "reports/SLA_Summary_FY2025.xlsx",
+   "page": 1,
+   "text": "Across healthcare clients in FY2025, Priority 1 incidents had a median response time of 9 minutes, and 74% of tickets were resolved at first contact."
+  },
+  {
+   "id": "kb3",
+   "title": "On-site support model",
+   "source": "past_proposals/Meadowbrook_Care_2025.pdf",
+   "page": 11,
+   "text": "Field engineers are based within 45 minutes of each clinic. When a remote fix fails, an engineer is on site within 3 business hours."
+  },
+  {
+   "id": "kb4",
+   "title": "Device lifecycle procedure",
+   "source": "procedures/Device_Lifecycle_SOP.pdf",
+   "page": 2,
+   "text": "Devices are imaged with the client's standard build, asset-tagged and deployed. At end of life they are wiped to a recognised standard, and a destruction certificate is issued per serial number."
+  },
+  {
+   "id": "kb5",
+   "title": "Access control policy",
+   "source": "policies/Access_Control_Policy.pdf",
+   "page": 3,
+   "text": "All engineers use named accounts with phishing-resistant multi-factor authentication. Privileged access is time-limited and logged; shared administrator accounts are prohibited."
+  },
+  {
+   "id": "kb6",
+   "title": "Security incident response",
+   "source": "policies/Incident_Response_Plan.pdf",
+   "page": 4,
+   "text": "Security incidents are triaged within 1 hour. Clients are notified within 12 hours of a confirmed incident affecting their data, with a written report within 5 days."
+  },
+  {
+   "id": "kb7",
+   "title": "Monthly service report sample",
+   "source": "reports/Sample_Service_Report.pdf",
+   "page": 1,
+   "text": "The monthly report covers ticket volumes, service level performance, top recurring issues, satisfaction scores and an improvement plan with owners and dates."
+  },
+  {
+   "id": "kb8",
+   "title": "Information security certificate",
+   "source": "compliance/ISMS_Certificate_2026.pdf",
+   "page": 1,
+   "text": "Independent information security management certification, valid until 2028, covering service desk, field services and device lifecycle."
+  },
+  {
+   "id": "kb9",
+   "title": "Insurance summary",
+   "source": "compliance/Insurance_Summary_2026.pdf",
+   "page": 1,
+   "text": "Professional indemnity USD 10,000,000; cyber liability USD 5,000,000."
+  },
+  {
+   "id": "kb10",
+   "title": "Transition playbook",
+   "source": "templates/Transition_Playbook.pdf",
+   "page": 3,
+   "text": "A 60-day transition with knowledge capture workshops, shadow running alongside the incumbent and a go-live readiness review with the client."
+  }
+ ],
+ "sections": {
+  "Q1": {
+   "title": "Service desk model and service levels",
+   "bullets": [
+    {
+     "text": "24/7 desk from two hubs by phone, email, chat and self-service portal, with engineers answering calls.",
+     "cite": "kb1"
+    },
+    {
+     "text": "FY2025 healthcare history: median Priority 1 response of 9 minutes and 74% first-contact resolution.",
+     "cite": "kb2"
+    },
+    {
+     "text": "Monthly service report with volumes, service levels, trends and an owned improvement plan.",
+     "cite": "kb7"
+    }
+   ]
+  },
+  "Q2": {
+   "title": "Security and data protection",
+   "bullets": [
+    {
+     "text": "Named accounts with phishing-resistant MFA; no shared administrator accounts; time-limited privileged access.",
+     "cite": "kb5"
+    },
+    {
+     "text": "Clients notified within 12 hours of a confirmed incident affecting their data, inside the 24-hour requirement.",
+     "cite": "kb6"
+    },
+    {
+     "text": "Independent information security certification valid until 2028.",
+     "cite": "kb8"
+    }
+   ]
+  },
+  "Q3": {
+   "title": "On-site support and device lifecycle",
+   "bullets": [
+    {
+     "text": "Field engineers within 45 minutes of each clinic; on site within 3 business hours when remote fixes fail.",
+     "cite": "kb3"
+    },
+    {
+     "text": "Standard-build imaging, asset tagging and certified wiping with a destruction certificate per serial number.",
+     "cite": "kb4"
+    }
+   ]
+  },
+  "Q4": {
+   "title": "Transition and continuous improvement",
+   "bullets": [
+    {
+     "text": "60-day transition with knowledge capture workshops, shadow running and a go-live readiness review.",
+     "cite": "kb10"
+    }
+   ]
+  },
+  "P1": {
+   "title": "Price",
+   "bullets": [
+    {
+     "text": "Core service priced per device per month; optional services and the one-off transition are shown on separate lines.",
+     "cite": null
+    }
+   ]
+  }
+ },
+ "price_lines": [
+  {
+   "desc": "Core service desk and support — per device per month",
+   "unit": "per device-month",
+   "qty": 28800,
+   "rate": 9.5
+  },
+  {
+   "desc": "On-site clinic support (6 clinics)",
+   "unit": "per month",
+   "qty": 12,
+   "rate": 7600
+  },
+  {
+   "desc": "Device imaging and deployment",
+   "unit": "per device",
+   "qty": 600,
+   "rate": 45
+  },
+  {
+   "desc": "Secure disposal with certificate",
+   "unit": "per device",
+   "qty": 400,
+   "rate": 12
+  },
+  {
+   "desc": "Transition (one-off)",
+   "unit": "fixed",
+   "qty": 1,
+   "rate": 18000
+  }
+ ]
+}

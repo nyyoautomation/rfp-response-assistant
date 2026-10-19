@@ -1,0 +1,27 @@
+[
+ {
+  "key": "facilities",
+  "label": "Facilities & cleaning",
+  "icon": "spray-can"
+ },
+ {
+  "key": "security",
+  "label": "Security services",
+  "icon": "shield"
+ },
+ {
+  "key": "it",
+  "label": "IT services",
+  "icon": "server"
+ },
+ {
+  "key": "training",
+  "label": "Training & learning",
+  "icon": "graduation-cap"
+ },
+ {
+  "key": "construction",
+  "label": "Construction",
+  "icon": "hard-hat"
+ }
+]

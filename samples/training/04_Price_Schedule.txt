@@ -1,0 +1,17 @@
+--- Page 1 ---
+PRICE SCHEDULE
+Port of Easthaven Authority (fictional) · PEA-LD-2026-02
+
+Instructions
+- Bidders shall price design, delivery per cohort, platform licences and evaluation as separate lines.
+- Travel and expenses shall be included in the day rates; no separate expenses will be paid.
+
+Line | Description | Unit | Estimated quantity | Rate (bidder to complete) | Total
+1 | Programme design and materials (one-off) | fixed | 1 | [rate] | [total]
+2 | Leadership cohort delivery (16 participants) | per cohort | 8 | [rate] | [total]
+3 | Safety classroom session | per session | 30 | [rate] | [total]
+4 | Learning platform licence | per learner-year | 1,840 | [rate] | [total]
+5 | Evaluation and quarterly reporting | per quarter | 8 | [rate] | [total]
+
+Quantities are estimates for evaluation only and are not guaranteed.
+

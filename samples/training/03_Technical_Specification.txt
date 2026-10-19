@@ -1,0 +1,24 @@
+--- Page 1 ---
+TECHNICAL SPECIFICATION
+Port of Easthaven Authority (fictional) · PEA-LD-2026-02
+
+1. Purpose
+This specification sets out the minimum requirements for: leadership and safety training programme for operational staff. 'Shall' means a mandatory requirement; 'should' means a desirable requirement that will be considered in scoring.
+
+2. Requirements (part 1)
+2.1 Design. The leadership programme shall be mapped to the Authority's supervisor competency framework in Annex B, with learning outcomes for each module.
+2.2 Delivery. Face-to-face sessions shall be delivered on site in groups of no more than 16 participants, scheduled around 24/7 shift patterns.
+2.3 Delivery. The safety-awareness course shall be available as a 45-minute e-learning module and as a classroom session for staff without regular computer access.
+
+--- Page 2 ---
+3. Requirements (part 2)
+3.1 Trainers. Lead trainers shall hold a recognised training qualification and have at least 5 years' experience in operational or industrial settings.
+3.2 Platform. The learning platform should meet recognised web accessibility guidelines (WCAG 2.1 AA) and work on mobile devices.
+3.3 Platform. Completion records shall be exportable to the Authority's HR system in CSV format at least monthly.
+
+--- Page 3 ---
+4. Requirements (part 3)
+4.1 Evaluation. The supplier shall evaluate the programme at reaction, learning and behaviour levels and report results quarterly.
+4.2 Languages. Safety materials should be available in plain English and in two additional languages to be agreed.
+4.3 Account management. The supplier shall provide a named account manager who attends a monthly review meeting on site.
+

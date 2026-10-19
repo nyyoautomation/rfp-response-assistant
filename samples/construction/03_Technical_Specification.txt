@@ -1,0 +1,24 @@
+--- Page 1 ---
+TECHNICAL SPECIFICATION
+Westmark City Council (fictional) · WCC-CW-2026-19
+
+1. Purpose
+This specification sets out the minimum requirements for: community sports hall refurbishment — design and build. 'Shall' means a mandatory requirement; 'should' means a desirable requirement that will be considered in scoring.
+
+2. Requirements (part 1)
+2.1 Programme. The hall shall be closed to the public for no more than 14 consecutive weeks, and the changing rooms shall be usable by week 10.
+2.2 Roof. The roof build-up shall achieve a thermal transmittance (U-value) of 0.18 W/m2K or better.
+2.3 Ventilation. The new ventilation system shall include heat recovery with a seasonal efficiency of at least 75%.
+
+--- Page 2 ---
+3. Requirements (part 2)
+3.1 Floor. The sports floor shall meet the performance class for multi-sport use set out in Annex D and be tested after installation.
+3.2 Accessibility. Changing rooms shall include at least two accessible cubicles and one adult changing facility.
+3.3 Quality. The contractor shall operate inspection and test plans for each work package and share them weekly.
+
+--- Page 3 ---
+4. Requirements (part 3)
+4.1 Waste. At least 70% of construction waste by weight should be diverted from landfill, with monthly reporting.
+4.2 Neighbours. Noisy works shall be limited to 08:00–18:00 on weekdays and 08:00–13:00 on Saturdays.
+4.3 Information. The contractor should provide a building information model (BIM) of the completed works at handover.
+

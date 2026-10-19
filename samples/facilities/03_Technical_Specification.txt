@@ -1,0 +1,23 @@
+--- Page 1 ---
+TECHNICAL SPECIFICATION
+Lakeside Metropolitan University (fictional) · LMU-FM-2026-07
+
+1. Purpose
+This specification sets out the minimum requirements for: campus cleaning and janitorial services — 3-year contract. 'Shall' means a mandatory requirement; 'should' means a desirable requirement that will be considered in scoring.
+
+2. Requirements (part 1)
+2.1 Scope. The contractor shall clean all teaching rooms, offices and washrooms daily between 06:00 and 09:00, before the start of classes.
+2.2 Quality. The contractor shall carry out monthly joint quality audits with the University and reach an average audit score of at least 85 out of 100.
+
+--- Page 2 ---
+3. Requirements (part 2)
+3.1 Response time. Reactive cleaning requests (spills, washroom failures) shall be attended within 30 minutes during staffed hours.
+3.2 Staffing. Each building shall have a named supervisor on site during every shift, with a supervision ratio of no more than one supervisor per 12 cleaning staff.
+3.3 Training. All staff shall complete chemical handling and manual handling training before their first shift, with records available on request.
+
+--- Page 3 ---
+4. Requirements (part 3)
+4.1 Sustainability. Cleaning chemicals shall carry a recognised ecolabel and microfibre systems shall be used to reduce water and chemical use.
+4.2 Waste. The contractor shall segregate general waste, mixed recycling and food waste at source and report monthly tonnages.
+4.3 Technology. The bidder should describe any digital tools used to record cleaning tasks, audits and requests in real time.
+

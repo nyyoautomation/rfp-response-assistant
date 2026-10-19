@@ -1,0 +1,17 @@
+--- Page 1 ---
+PRICE SCHEDULE
+Riverton Regional Health Network (fictional) · RRHN-IT-2026-04
+
+Instructions
+- Prices shall be quoted per device per month for the core service, with optional services priced separately.
+- Transition costs shall be shown as a one-off line and not spread into monthly charges.
+
+Line | Description | Unit | Estimated quantity | Rate (bidder to complete) | Total
+1 | Core service desk and support — per device per month | per device-month | 28,800 | [rate] | [total]
+2 | On-site clinic support (6 clinics) | per month | 12 | [rate] | [total]
+3 | Device imaging and deployment | per device | 600 | [rate] | [total]
+4 | Secure disposal with certificate | per device | 400 | [rate] | [total]
+5 | Transition (one-off) | fixed | 1 | [rate] | [total]
+
+Quantities are estimates for evaluation only and are not guaranteed.
+

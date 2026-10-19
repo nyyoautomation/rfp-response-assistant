@@ -1,0 +1,503 @@
+{
+ "key": "security",
+ "label": "Security services",
+ "icon": "shield",
+ "meta": {
+  "buyer": "Harbor County Transit Authority (fictional)",
+  "rfp_id": "HCTA-SEC-2026-11",
+  "title": "Manned guarding and mobile patrol services for stations and depots",
+  "vendor": "Northwatch Protective Services (fictional)",
+  "scope": "24/7 manned guarding at 3 depots and 9 stations, mobile patrols between sites, CCTV monitoring support and incident reporting, for an initial term of 3 years.",
+  "currency": "USD",
+  "words": 933,
+  "pages": 9
+ },
+ "docs": [
+  {
+   "id": "rfp",
+   "file": "01_RFP_Instructions_to_Bidders.txt",
+   "label": "RFP / Invitation to Tender",
+   "pages": [
+    "REQUEST FOR PROPOSAL — Manned guarding and mobile patrol services for stations and depots\nHarbor County Transit Authority (fictional) · HCTA-SEC-2026-11\n\n1. Introduction\nHarbor County Transit Authority (fictional) invites proposals for: manned guarding and mobile patrol services for stations and depots.\nScope: 24/7 manned guarding at 3 depots and 9 stations, mobile patrols between sites, CCTV monitoring support and incident reporting, for an initial term of 3 years.\n\n2. Timetable\nClarification questions close: 2026-11-18 at 16:00\nBidder briefing (online): 2026-11-21 at 14:00\nProposal submission deadline: 2026-12-02 at 12:00\nProposal validity: 90 days after the submission deadline\nPlanned contract start: 2027-01-15\nAll times are local time at the buyer's offices. Late proposals will not be considered.",
+    "3. Evaluation criteria\nProposals will be scored against the criteria and weightings below. Quality questions are scored from 0 to 5 and then weighted.\nQ1 — Operational approach and post orders — 30% — How posts, patrols and CCTV support will be run and supervised around the clock.\nQ2 — Officer licensing, vetting and training — 20% — Licensing status, vetting, initial and refresher training, including de-escalation.\nQ3 — Incident management and reporting — 15% — Incident response, escalation, reporting times and use of technology.\nQ4 — Transition and contingency — 10% — Mobilisation from the incumbent and cover for absence or major events.\nP1 — Price — 25% — Total evaluated price from the price schedule.\n\n4. Documents to be returned\nBidders shall return the following documents. A proposal missing any mandatory document may be rejected as non-compliant.\n- Signed form of tender (Mandatory)\n- Technical proposal answering Q1 to Q4 (max 25 pages) (Mandatory)\n- Completed price schedule (Mandatory)\n- Security business licence (Mandatory)\n- Proof of insurance cover (Mandatory)\n- Three client references (Mandatory)\n- Sample patrol report (Optional)\n- Organisation chart for the contract (Mandatory)",
+    "5. Instructions to bidders\nProposals shall be submitted in English through the buyer's e-procurement portal. Email submissions will not be accepted.\nQuestions shall be raised through the portal before the clarification deadline. Answers will be shared with all bidders without naming the bidder who asked.\nBidders shall not contact evaluators directly during the procurement. Canvassing will lead to exclusion.\nThe buyer is not bound to accept the lowest priced or any proposal and will not reimburse bid costs."
+   ]
+  },
+  {
+   "id": "tc",
+   "file": "02_Terms_and_Conditions.txt",
+   "label": "Terms and conditions",
+   "pages": [
+    "TERMS AND CONDITIONS OF CONTRACT\nHarbor County Transit Authority (fictional) · HCTA-SEC-2026-11\n\n1. Definitions and interpretation\nIn these conditions, the Buyer means the contracting authority named above and the Contractor means the successful bidder.\n\n2. Contractor obligations\n2.1 Insurance. The contractor shall hold public liability insurance of at least USD 10,000,000 per occurrence and professional indemnity of at least USD 2,000,000.\n2.2 Vetting. All officers shall pass a background check covering the previous 5 years before deployment.",
+    "3. Commercial terms\n3.1 Payment. Invoices shall be submitted monthly in arrears with timesheets and will be paid within 30 days.\n3.2 Subcontracting. Subcontracting of guarding posts is not permitted without prior written approval.\n\n4. Termination\nEither party may terminate for material breach that is not remedied within 30 days of written notice.\n5. Governing law\nThe contract is governed by the law of the Buyer's jurisdiction."
+   ]
+  },
+  {
+   "id": "spec",
+   "file": "03_Technical_Specification.txt",
+   "label": "Technical specification",
+   "pages": [
+    "TECHNICAL SPECIFICATION\nHarbor County Transit Authority (fictional) · HCTA-SEC-2026-11\n\n1. Purpose\nThis specification sets out the minimum requirements for: manned guarding and mobile patrol services for stations and depots. 'Shall' means a mandatory requirement; 'should' means a desirable requirement that will be considered in scoring.\n\n2. Requirements (part 1)\n2.1 Coverage. The contractor shall provide 24-hour, 7-day manned guarding at each depot listed in Annex A, with no post left unattended during shift changes.\n2.2 Patrols. Mobile patrol vehicles shall visit every station at least four times per night between 22:00 and 06:00, with each visit recorded electronically.\n2.3 Licensing. Every officer shall hold a valid security licence for the role before deployment and carry it while on duty.",
+    "3. Requirements (part 2)\n3.1 Training. Officers shall complete conflict de-escalation and first aid training before deployment and refresh it at least every 24 months.\n3.2 Incidents. Serious incidents shall be reported by phone to the Authority's control room within 15 minutes and in writing within 24 hours.\n3.3 Supervision. A shift supervisor shall be on duty at all times and shall make at least one welfare check per officer per shift.",
+    "4. Requirements (part 3)\n4.1 Technology. The bidder should describe the guard-tour and reporting system used and how the Authority can access live data.\n4.2 Contingency. The contractor shall be able to supply up to 10 additional officers within 12 hours for special events or emergencies.\n4.3 Station procedures. Officers deployed at stations shall be trained in the Authority's evacuation procedures within their first week on site."
+   ]
+  },
+  {
+   "id": "price",
+   "file": "04_Price_Schedule.txt",
+   "label": "Price schedule",
+   "pages": [
+    "PRICE SCHEDULE\nHarbor County Transit Authority (fictional) · HCTA-SEC-2026-11\n\nInstructions\n- Bidders shall price every line of the schedule using hourly rates that include all wages, overheads and margin.\n- Overtime and holiday rates shall be stated separately and shall not exceed 1.5 times the standard rate.\n\nLine | Description | Unit | Estimated quantity | Rate (bidder to complete) | Total\n1 | Manned guarding — depots (hourly rate x hours) | per hour | 26,280 | [rate] | [total]\n2 | Mobile patrol service | per night | 365 | [rate] | [total]\n3 | CCTV monitoring support | per month | 12 | [rate] | [total]\n4 | Additional officer on request | per hour | 600 | [rate] | [total]\n5 | Contract management and reporting | per month | 12 | [rate] | [total]\n\nQuantities are estimates for evaluation only and are not guaranteed."
+   ]
+  }
+ ],
+ "requirements": [
+  {
+   "id": "R01",
+   "doc": "spec",
+   "page": 1,
+   "category": "Coverage",
+   "text": "The contractor shall provide 24-hour, 7-day manned guarding at each depot listed in Annex A, with no post left unattended during shift changes.",
+   "kind": "must",
+   "kb": "kb1"
+  },
+  {
+   "id": "R02",
+   "doc": "spec",
+   "page": 1,
+   "category": "Patrols",
+   "text": "Mobile patrol vehicles shall visit every station at least four times per night between 22:00 and 06:00, with each visit recorded electronically.",
+   "kind": "must",
+   "kb": "kb2"
+  },
+  {
+   "id": "R03",
+   "doc": "spec",
+   "page": 1,
+   "category": "Licensing",
+   "text": "Every officer shall hold a valid security licence for the role before deployment and carry it while on duty.",
+   "kind": "must",
+   "kb": "kb3"
+  },
+  {
+   "id": "R04",
+   "doc": "spec",
+   "page": 2,
+   "category": "Training",
+   "text": "Officers shall complete conflict de-escalation and first aid training before deployment and refresh it at least every 24 months.",
+   "kind": "must",
+   "kb": "kb4"
+  },
+  {
+   "id": "R05",
+   "doc": "spec",
+   "page": 2,
+   "category": "Incidents",
+   "text": "Serious incidents shall be reported by phone to the Authority's control room within 15 minutes and in writing within 24 hours.",
+   "kind": "must",
+   "kb": "kb5"
+  },
+  {
+   "id": "R06",
+   "doc": "spec",
+   "page": 2,
+   "category": "Supervision",
+   "text": "A shift supervisor shall be on duty at all times and shall make at least one welfare check per officer per shift.",
+   "kind": "must",
+   "kb": "kb6"
+  },
+  {
+   "id": "R07",
+   "doc": "spec",
+   "page": 3,
+   "category": "Technology",
+   "text": "The bidder should describe the guard-tour and reporting system used and how the Authority can access live data.",
+   "kind": "should",
+   "kb": "kb7"
+  },
+  {
+   "id": "R08",
+   "doc": "spec",
+   "page": 3,
+   "category": "Contingency",
+   "text": "The contractor shall be able to supply up to 10 additional officers within 12 hours for special events or emergencies.",
+   "kind": "must",
+   "kb": "kb8"
+  },
+  {
+   "id": "R09",
+   "doc": "tc",
+   "page": 1,
+   "category": "Insurance",
+   "text": "The contractor shall hold public liability insurance of at least USD 10,000,000 per occurrence and professional indemnity of at least USD 2,000,000.",
+   "kind": "must",
+   "kb": "kb9"
+  },
+  {
+   "id": "R10",
+   "doc": "tc",
+   "page": 1,
+   "category": "Vetting",
+   "text": "All officers shall pass a background check covering the previous 5 years before deployment.",
+   "kind": "must",
+   "kb": "kb10"
+  },
+  {
+   "id": "R11",
+   "doc": "tc",
+   "page": 2,
+   "category": "Payment",
+   "text": "Invoices shall be submitted monthly in arrears with timesheets and will be paid within 30 days.",
+   "kind": "info",
+   "kb": null
+  },
+  {
+   "id": "R12",
+   "doc": "tc",
+   "page": 2,
+   "category": "Subcontracting",
+   "text": "Subcontracting of guarding posts is not permitted without prior written approval.",
+   "kind": "must",
+   "kb": null
+  },
+  {
+   "id": "R13",
+   "doc": "price",
+   "page": 1,
+   "category": "Pricing",
+   "text": "Bidders shall price every line of the schedule using hourly rates that include all wages, overheads and margin.",
+   "kind": "must",
+   "kb": null
+  },
+  {
+   "id": "R14",
+   "doc": "price",
+   "page": 1,
+   "category": "Pricing",
+   "text": "Overtime and holiday rates shall be stated separately and shall not exceed 1.5 times the standard rate.",
+   "kind": "must",
+   "kb": null
+  },
+  {
+   "id": "R15",
+   "doc": "spec",
+   "page": 3,
+   "category": "Station procedures",
+   "text": "Officers deployed at stations shall be trained in the Authority's evacuation procedures within their first week on site.",
+   "kind": "must",
+   "kb": null
+  }
+ ],
+ "criteria": [
+  {
+   "id": "Q1",
+   "name": "Operational approach and post orders",
+   "weight": 30,
+   "description": "How posts, patrols and CCTV support will be run and supervised around the clock.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "Q2",
+   "name": "Officer licensing, vetting and training",
+   "weight": 20,
+   "description": "Licensing status, vetting, initial and refresher training, including de-escalation.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "Q3",
+   "name": "Incident management and reporting",
+   "weight": 15,
+   "description": "Incident response, escalation, reporting times and use of technology.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "Q4",
+   "name": "Transition and contingency",
+   "weight": 10,
+   "description": "Mobilisation from the incumbent and cover for absence or major events.",
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "P1",
+   "name": "Price",
+   "weight": 25,
+   "description": "Total evaluated price from the price schedule.",
+   "doc": "rfp",
+   "page": 2
+  }
+ ],
+ "deadlines": [
+  {
+   "label": "Clarification questions close",
+   "date": "2026-11-18",
+   "time": "16:00",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Bidder briefing (online)",
+   "date": "2026-11-21",
+   "time": "14:00",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Proposal submission deadline",
+   "date": "2026-12-02",
+   "time": "12:00",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Proposal validity",
+   "date": "90 days after the submission deadline",
+   "time": "",
+   "doc": "rfp",
+   "page": 1
+  },
+  {
+   "label": "Planned contract start",
+   "date": "2027-01-15",
+   "time": "",
+   "doc": "rfp",
+   "page": 1
+  }
+ ],
+ "documents": [
+  {
+   "id": "D1",
+   "name": "Signed form of tender",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D2",
+   "name": "Technical proposal answering Q1 to Q4 (max 25 pages)",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D3",
+   "name": "Completed price schedule",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D4",
+   "name": "Security business licence",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D5",
+   "name": "Proof of insurance cover",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D6",
+   "name": "Three client references",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D7",
+   "name": "Sample patrol report",
+   "mandatory": false,
+   "doc": "rfp",
+   "page": 2
+  },
+  {
+   "id": "D8",
+   "name": "Organisation chart for the contract",
+   "mandatory": true,
+   "doc": "rfp",
+   "page": 2
+  }
+ ],
+ "kb": [
+  {
+   "id": "kb1",
+   "title": "Past proposal — Westfield Rail depots",
+   "source": "past_proposals/Westfield_Rail_2025.pdf",
+   "page": 5,
+   "text": "Post orders are written for each site and reviewed with the client every quarter. Shift handovers take place at the post, so no post is ever left unattended during a change of shift."
+  },
+  {
+   "id": "kb2",
+   "title": "Patrol operations",
+   "source": "procedures/Mobile_Patrol_SOP.pdf",
+   "page": 3,
+   "text": "Patrol vehicles follow randomised routes and record each site visit with an NFC checkpoint scan. Visit logs, timestamps and photos are available to the client the same night."
+  },
+  {
+   "id": "kb3",
+   "title": "Licensing register",
+   "source": "compliance/Licence_Register_2026.xlsx",
+   "page": 1,
+   "text": "All 214 officers hold a valid licence for their role. Licence expiry dates are tracked and officers are stood down automatically 30 days before expiry unless renewed."
+  },
+  {
+   "id": "kb4",
+   "title": "Training programme",
+   "source": "hr/Officer_Training_Programme.pdf",
+   "page": 2,
+   "text": "Initial training covers conflict de-escalation, first aid, report writing and customer care. Refreshers are delivered every 18 months."
+  },
+  {
+   "id": "kb5",
+   "title": "Incident escalation procedure",
+   "source": "procedures/Incident_Escalation.pdf",
+   "page": 1,
+   "text": "Serious incidents are called through to the client control room within 10 minutes by the supervisor, followed by a written report within 12 hours."
+  },
+  {
+   "id": "kb6",
+   "title": "Supervision and welfare",
+   "source": "past_proposals/Westfield_Rail_2025.pdf",
+   "page": 8,
+   "text": "A mobile supervisor is on duty on every shift and makes at least two welfare checks per officer per shift, in person or by radio."
+  },
+  {
+   "id": "kb7",
+   "title": "Guard-tour technology",
+   "source": "products/Guard_Tour_Platform.pdf",
+   "page": 2,
+   "text": "Our guard-tour platform records checkpoints, incidents and photos in real time. Clients get read-only dashboard access and a weekly PDF summary."
+  },
+  {
+   "id": "kb8",
+   "title": "Surge capacity",
+   "source": "past_proposals/City_Events_2024.pdf",
+   "page": 3,
+   "text": "A relief pool of vetted officers allows us to provide up to 15 extra officers within 8 hours for events or emergencies."
+  },
+  {
+   "id": "kb9",
+   "title": "Insurance summary",
+   "source": "compliance/Insurance_Summary_2026.pdf",
+   "page": 1,
+   "text": "Public liability USD 15,000,000 per occurrence; professional indemnity USD 5,000,000."
+  },
+  {
+   "id": "kb10",
+   "title": "Vetting standard",
+   "source": "hr/Vetting_Procedure.pdf",
+   "page": 1,
+   "text": "Every officer completes a background check covering at least the previous 5 years, with gaps explained and verified, before deployment."
+  }
+ ],
+ "sections": {
+  "Q1": {
+   "title": "Operational approach and post orders",
+   "bullets": [
+    {
+     "text": "Site-specific post orders reviewed with the Authority every quarter.",
+     "cite": "kb1"
+    },
+    {
+     "text": "Handover at the post, so no depot post is left unattended during shift changes.",
+     "cite": "kb1"
+    },
+    {
+     "text": "Randomised mobile patrols with NFC checkpoint scans at every station, at least four times per night.",
+     "cite": "kb2"
+    }
+   ]
+  },
+  "Q2": {
+   "title": "Officer licensing, vetting and training",
+   "bullets": [
+    {
+     "text": "All officers hold a valid licence; expiry dates are tracked and officers are stood down 30 days before expiry unless renewed.",
+     "cite": "kb3"
+    },
+    {
+     "text": "De-escalation and first aid before deployment, refreshed every 18 months — inside the 24-month requirement.",
+     "cite": "kb4"
+    },
+    {
+     "text": "5-year background checks with gaps verified before deployment.",
+     "cite": "kb10"
+    }
+   ]
+  },
+  "Q3": {
+   "title": "Incident management and reporting",
+   "bullets": [
+    {
+     "text": "Serious incidents phoned through within 10 minutes and written up within 12 hours, faster than the 15-minute and 24-hour limits.",
+     "cite": "kb5"
+    },
+    {
+     "text": "Live guard-tour dashboard with read-only access for the Authority and a weekly summary.",
+     "cite": "kb7"
+    }
+   ]
+  },
+  "Q4": {
+   "title": "Transition and contingency",
+   "bullets": [
+    {
+     "text": "Relief pool able to supply up to 15 extra officers within 8 hours, above the 10 officers in 12 hours required.",
+     "cite": "kb8"
+    },
+    {
+     "text": "Mobile supervisor on every shift with at least two welfare checks per officer.",
+     "cite": "kb6"
+    }
+   ]
+  },
+  "P1": {
+   "title": "Price",
+   "bullets": [
+    {
+     "text": "Hourly rates include wages, overheads and margin; overtime and holiday rates are capped at 1.5 times the standard rate.",
+     "cite": null
+    }
+   ]
+  }
+ },
+ "price_lines": [
+  {
+   "desc": "Manned guarding — depots (hourly rate x hours)",
+   "unit": "per hour",
+   "qty": 26280,
+   "rate": 31
+  },
+  {
+   "desc": "Mobile patrol service",
+   "unit": "per night",
+   "qty": 365,
+   "rate": 420
+  },
+  {
+   "desc": "CCTV monitoring support",
+   "unit": "per month",
+   "qty": 12,
+   "rate": 6400
+  },
+  {
+   "desc": "Additional officer on request",
+   "unit": "per hour",
+   "qty": 600,
+   "rate": 38
+  },
+  {
+   "desc": "Contract management and reporting",
+   "unit": "per month",
+   "qty": 12,
+   "rate": 2800
+  }
+ ]
+}

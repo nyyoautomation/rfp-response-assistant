@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>RFP Response Assistant — from RFP pack to compliant first draft · Nyyo Automation</title>
+  <meta name="description" content="Upload an RFP pack, get every requirement with its source page, a compliance matrix, weighted criteria, deadlines and a proposal draft in Word. Live demo with a fictional RFP, no sign-up. From $79/month." />
+  <link rel="canonical" href="https://nyyoautomation.github.io/rfp-response-assistant/" />
+  <meta name="theme-color" content="#050814" />
+  <meta property="og:title" content="RFP Response Assistant — compliant first draft, every line cited" />
+  <meta property="og:description" content="Requirements with citations, compliance matrix, scoring weights, deadlines and a DOCX proposal draft. Try the fictional demo — no sign-up." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://nyyoautomation.github.io/rfp-response-assistant/assets/og.png" />
+  <meta property="og:url" content="https://nyyoautomation.github.io/rfp-response-assistant/" />
+  <meta property="og:locale" content="en_US" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="icon" href="./assets/logo.png" type="image/png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./css/nyyo-kit.css" />
+  <link rel="stylesheet" href="./css/style.css" />
+  <link rel="stylesheet" href="./css/rfp.css" />
+  <script src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/docx@8.5.0/build/index.umd.js" defer></script>
+  <script src="./js/bm25.js" defer></script>
+  <script src="./js/app.js" defer></script>
+</head>
+<body>
+  <div class="wrap">
+    <div class="topbar">
+      <a class="brand" href="#top" aria-label="Nyyo Automation — RFP Response Assistant">
+        <img src="./assets/logo.png" alt="" width="34" height="34" />
+        <span class="brand-name">RFP Response Assistant</span>
+      </a>
+      <nav class="top-actions" aria-label="Page sections">
+        <a class="btn btn-ghost hide-sm" href="#demo">Live demo</a>
+        <a class="btn btn-ghost hide-sm" href="#pricing">Pricing</a>
+        <a class="btn btn-primary" href="mailto:LaborX (https://laborx.com/freelancers/users/id475124)?subject=RFP%20Response%20Assistant%20%E2%80%94%20waitlist"><i data-lucide="mail"></i><span class="lbl">Join waitlist</span></a>
+      </nav>
+    </div>
+
+    <header class="hero" id="top">
+      <div class="hero-inner">
+        <span class="tag"><span class="dot"></span> Live demo · fictional RFP · no sign-up</span>
+        <h1>From RFP pack to a <span class="grad">compliant first draft</span> — every line traced to its source page</h1>
+        <p class="lead">Drop in the RFP, terms, technical spec and price schedule. Get every requirement with its citation, a compliance matrix with gaps flagged, the scoring weights, a deadline and document checklist, and a proposal draft in Word — ready for your team to review.</p>
+        <p class="host-line"><i data-lucide="cloud"></i><span><strong>Online, in an isolated workspace</strong> — EU or US hosting, the data region of your choice. Never trained on your data. A local / on-prem option is available.</span></p>
+        <div class="hero-cta">
+          <a class="btn btn-primary" href="#demo"><i data-lucide="play"></i> Try the live demo</a>
+          <a class="btn btn-ghost" href="#pricing">See pricing</a>
+        </div>
+        <div class="hero-meta">
+          <span>From <strong>$79/month</strong></span>
+          <span><strong>No setup fees</strong></span>
+          <span><strong>Remote · Worldwide</strong></span>
+        </div>
+        <div class="disclaimer-banner" role="note">
+          <i data-lucide="shield-alert" style="width:18px;height:18px"></i>
+          <div><strong>Human review required.</strong> Everything the assistant produces is a draft for your team to check before anything is submitted. You stay responsible for your bid. This page uses <em>fictional</em> documents only.</div>
+        </div>
+      </div>
+    </header>
+
+    <section class="out-strip" aria-label="What the assistant produces">
+      <div><i data-lucide="list-checks"></i><span>Requirements<br /><small>with citations</small></span></div>
+      <div><i data-lucide="table-2"></i><span>Compliance matrix<br /><small>gaps flagged</small></span></div>
+      <div><i data-lucide="scale"></i><span>Evaluation criteria<br /><small>and weights</small></span></div>
+      <div><i data-lucide="calendar-clock"></i><span>Deadlines<br /><small>and document checklist</small></span></div>
+      <div><i data-lucide="file-text"></i><span>Proposal draft<br /><small>exported to Word</small></span></div>
+    </section>
+
+    <!-- DEMO -->
+    <section class="panel" id="demo" aria-label="Live demo">
+      <div class="panel-head">
+        <h2><i data-lucide="flask-conical" style="width:18px;height:18px"></i> Live demo — pick a sector</h2>
+        <span class="badge-sample">Fictional data</span>
+      </div>
+      <div class="sector-bar" id="sectorBar" role="tablist" aria-label="Sector"></div>
+      <div class="rfp-meta" id="rfpMeta"></div>
+
+      <h3 class="sub-h">The fictional RFP pack <small>tap a file to read it · download the text</small></h3>
+      <div class="file-grid" id="fileGrid"></div>
+
+      <div class="pipeline" id="pipeline" aria-label="Analysis pipeline">
+        <div class="pipeline-stage">
+          <div class="pipe-node" data-node="0"><div class="ico"><i data-lucide="files"></i></div><strong>Read</strong><small>4 documents</small></div>
+          <span class="pipe-arrow">→</span>
+          <div class="pipe-node" data-node="1"><div class="ico"><i data-lucide="scan-text"></i></div><strong>Extract</strong><small>shall / should</small></div>
+          <span class="pipe-arrow">→</span>
+          <div class="pipe-node" data-node="2"><div class="ico"><i data-lucide="git-compare"></i></div><strong>Match</strong><small>your answer library</small></div>
+          <span class="pipe-arrow">→</span>
+          <div class="pipe-node" data-node="3"><div class="ico"><i data-lucide="file-check-2"></i></div><strong>Draft</strong><small>cited, for review</small></div>
+        </div>
+        <div class="actions-row">
+          <button type="button" class="btn btn-primary" id="btnRun"><i data-lucide="play"></i> Analyse this RFP pack</button>
+          <span class="run-note" id="runNote">Runs in your browser on the fictional files above.</span>
+        </div>
+      </div>
+
+      <div id="results" class="hidden">
+        <div class="readiness" id="readiness"></div>
+        <div class="tabs" role="tablist" aria-label="Results">
+          <button type="button" class="tab on" data-tab="reqs" role="tab" aria-selected="true">Requirements</button>
+          <button type="button" class="tab" data-tab="matrix" role="tab" aria-selected="false">Compliance matrix</button>
+          <button type="button" class="tab" data-tab="criteria" role="tab" aria-selected="false">Criteria &amp; weights</button>
+          <button type="button" class="tab" data-tab="dates" role="tab" aria-selected="false">Deadlines &amp; documents</button>
+          <button type="button" class="tab" data-tab="draft" role="tab" aria-selected="false">Proposal draft</button>
+        </div>
+        <div class="tab-body" data-body="reqs">
+          <div class="filter-row" id="reqFilter">
+            <button type="button" class="chip on" data-f="all">All</button>
+            <button type="button" class="chip" data-f="must">Mandatory (shall)</button>
+            <button type="button" class="chip" data-f="should">Desirable (should)</button>
+          </div>
+          <div class="req-list" id="reqList"></div>
+        </div>
+        <div class="tab-body hidden" data-body="matrix">
+          <p class="hint">Each requirement is matched to evidence in the fictional bidder’s answer library. Gaps are flagged for a human to fill.</p>
+          <div class="tbl-wrap"><table class="table stack" id="matrix"><thead><tr><th>ID</th><th>Requirement</th><th>Type</th><th>Source</th><th>Status</th><th>Evidence</th></tr></thead><tbody></tbody></table></div>
+        </div>
+        <div class="tab-body hidden" data-body="criteria">
+          <div class="crit-bars" id="critBars"></div>
+          <p class="hint" id="critHint"></p>
+        </div>
+        <div class="tab-body hidden" data-body="dates">
+          <div class="two-col">
+            <div><h3 class="sub-h">Key dates</h3><div class="tbl-wrap"><table class="table stack" id="dates"><thead><tr><th>Event</th><th>When</th><th>Source</th></tr></thead><tbody></tbody></table></div></div>
+            <div><h3 class="sub-h">Documents to return</h3><div class="tbl-wrap"><table class="table stack" id="docs"><thead><tr><th>Document</th><th>Type</th><th>Source</th></tr></thead><tbody></tbody></table></div></div>
+          </div>
+        </div>
+        <div class="tab-body hidden" data-body="draft">
+          <div class="inputs">
+            <h3 class="sub-h">Your inputs <small>your numbers, never the AI’s</small></h3>
+            <div class="form-grid">
+              <div class="field"><label for="inCompany">Bidder name</label><input id="inCompany" type="text" /></div>
+              <div class="field"><label for="inContact">Bid contact</label><input id="inContact" type="text" value="Alex Morgan (fictional)" /></div>
+              <div class="field full"><label for="inWin">Win theme (one line)</label><input id="inWin" type="text" /></div>
+            </div>
+            <h3 class="sub-h">Price schedule <small>edit the rates — totals update live</small></h3>
+            <div class="tbl-wrap"><table class="table stack" id="priceTbl"><thead><tr><th>Line</th><th>Unit</th><th>Qty</th><th>Rate</th><th>Total</th></tr></thead><tbody></tbody><tfoot><tr><td colspan="4"><strong>Total evaluated price</strong></td><td class="mono" id="priceTotal"></td></tr></tfoot></table></div>
+            <h3 class="sub-h">Answer library <small>search the fictional bidder’s past answers</small></h3>
+            <div class="search-row"><input id="kbQ" type="search" placeholder="Try: insurance, training, response time…" autocomplete="off" aria-label="Search the answer library" /><button type="button" class="btn btn-ghost" id="btnKb">Search</button></div>
+            <div id="kbHits"></div>
+            <div class="actions-row">
+              <button type="button" class="btn btn-primary" id="btnDraft"><i data-lucide="wand-sparkles"></i> Assemble the proposal draft</button>
+            </div>
+          </div>
+          <div id="draftOut" class="proposal-out"></div>
+          <div class="actions-row hidden" id="exportRow">
+            <button type="button" class="btn btn-primary" id="btnDocx"><i data-lucide="file-down"></i> Download DOCX</button>
+            <button type="button" class="btn btn-ghost" id="btnCsv"><i data-lucide="sheet"></i> Matrix as CSV</button>
+            <span class="run-note">Draft only — review every claim before submitting.</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- WHAT YOU GET -->
+    <section class="panel" id="value" aria-label="What you get">
+      <div class="panel-head"><h2><i data-lucide="trending-up" style="width:18px;height:18px"></i> What you get — on this sample</h2><span class="badge-sample">Estimates on the example</span></div>
+      <div class="ba-grid">
+        <div class="ba-card before">
+          <h3>Before — by hand</h3>
+          <ul class="ba-list" id="baBefore"></ul>
+        </div>
+        <div class="ba-card after">
+          <h3>After — with the assistant</h3>
+          <ul class="ba-list" id="baAfter"></ul>
+        </div>
+      </div>
+      <div class="val-grid" id="valGrid"></div>
+      <p class="hint">Counts are computed live from the fictional RFP pack above. Hours are <strong>estimates for this example</strong>, not a guarantee — real RFPs vary in length and quality, and your review time stays essential.</p>
+    </section>
+
+    <!-- HOW IT WORKS -->
+    <section class="steps" aria-label="How it works" id="how">
+      <div class="step"><span class="n">1</span><h3>Upload the pack</h3><p>PDF, Word or Excel: RFP, terms, spec, price schedule.</p></div>
+      <div class="step"><span class="n">2</span><h3>Check the extraction</h3><p>Every requirement links back to its page.</p></div>
+      <div class="step"><span class="n">3</span><h3>Fill the gaps</h3><p>Your prices, your names, your commitments.</p></div>
+      <div class="step"><span class="n">4</span><h3>Export and review</h3><p>Word draft + matrix. Your team signs off.</p></div>
+    </section>
+
+    <!-- PRICING -->
+    <section class="panel" id="pricing" aria-label="Pricing">
+      <div class="panel-head"><h2><i data-lucide="credit-card" style="width:18px;height:18px"></i> Pricing (USD)</h2><span class="badge-live">No setup fees</span></div>
+      <div class="bill-toggle" role="group" aria-label="Billing period">
+        <button type="button" class="on" data-bill="m" aria-pressed="true">Monthly</button>
+        <button type="button" data-bill="y" aria-pressed="false">Annual <span class="save">up to 2 months free</span></button>
+      </div>
+      <div class="plans">
+        <div class="plan">
+          <h3>Starter</h3>
+          <div class="price" data-m="$79" data-y="$869" data-ms="/mo" data-ys="/yr">$79<small>/mo</small></div>
+          <div class="bill-note" data-m="billed monthly" data-y="1 month free vs monthly">billed monthly</div>
+          <div class="quota">2 RFPs / month · 1 user</div>
+          <ul>
+            <li>Requirements with citations</li>
+            <li>Compliance matrix with gaps flagged</li>
+            <li>Criteria, deadlines &amp; document checklist</li>
+            <li>Proposal draft in Word</li>
+            <li>Data region of your choice (EU or US)</li>
+          </ul>
+          <a class="btn btn-ghost" href="mailto:LaborX (https://laborx.com/freelancers/users/id475124)?subject=Waitlist%20%E2%80%94%20Starter">Join waitlist</a>
+        </div>
+        <div class="plan reco">
+          <span class="reco-badge">Recommended</span>
+          <h3>Pro</h3>
+          <div class="price" data-m="$199" data-y="$1,990" data-ms="/mo" data-ys="/yr">$199<small>/mo</small></div>
+          <div class="bill-note" data-m="billed monthly" data-y="2 months free vs monthly">billed monthly</div>
+          <div class="quota">6 RFPs / month · 5 users</div>
+          <ul>
+            <li>Everything in Starter</li>
+            <li>3× the monthly RFP volume</li>
+            <li>Up to 5 team members</li>
+          </ul>
+          <a class="btn btn-primary" href="mailto:LaborX (https://laborx.com/freelancers/users/id475124)?subject=Waitlist%20%E2%80%94%20Pro">Join waitlist</a>
+        </div>
+        <div class="plan">
+          <h3>Team</h3>
+          <div class="price" data-m="$449" data-y="$4,490" data-ms="/mo" data-ys="/yr">$449<small>/mo</small></div>
+          <div class="bill-note" data-m="billed monthly" data-y="2 months free vs monthly">billed monthly</div>
+          <div class="quota">15 RFPs / month · 15 users</div>
+          <ul>
+            <li>Everything in Pro</li>
+            <li>15 RFPs per month</li>
+            <li>Up to 15 team members</li>
+          </ul>
+          <a class="btn btn-ghost" href="mailto:LaborX (https://laborx.com/freelancers/users/id475124)?subject=Waitlist%20%E2%80%94%20Team">Join waitlist</a>
+        </div>
+      </div>
+      <div class="price-notes">
+        <p><i data-lucide="plus-circle"></i> <span><strong>Extra RFP: $25</strong> on any plan.</span></p>
+        <p><i data-lucide="badge-check"></i> <span><strong>No setup fees</strong> on any plan.</span></p>
+        <p><i data-lucide="bitcoin"></i> <span>Crypto payments accepted at launch. Not open for purchase yet — join the waitlist and we’ll email you.</span></p>
+      </div>
+    </section>
+
+    <!-- TRUST -->
+    <section class="panel" id="trust" aria-label="Security and hosting">
+      <div class="panel-head"><h2><i data-lucide="shield-check" style="width:18px;height:18px"></i> Security &amp; hosting</h2></div>
+      <div class="trust-grid">
+        <div class="own-card"><h3><i data-lucide="box" style="width:16px;height:16px"></i> Isolated workspace</h3><p class="trust-p">Each company gets its own isolated workspace. Your RFPs, prices and past answers are never mixed with anyone else’s.</p></div>
+        <div class="own-card"><h3><i data-lucide="globe-2" style="width:16px;height:16px"></i> EU or US hosting</h3><p class="trust-p">Pick the data region of your choice when your workspace is created. Your documents stay in that region.</p></div>
+        <div class="own-card"><h3><i data-lucide="brain" style="width:16px;height:16px"></i> Never trained on your data</h3><p class="trust-p">Your files are used only to answer your RFPs. Limited, logged access; deletion on request.</p></div>
+        <div class="own-card"><h3><i data-lucide="user-round-check" style="width:16px;height:16px"></i> Human review, always</h3><p class="trust-p">Every draft is checked by your team before it goes to a buyer. Citations make that check fast.</p></div>
+        <div class="own-card"><h3><i data-lucide="hard-drive" style="width:16px;height:16px"></i> Local / on-prem option</h3><p class="trust-p">Need documents to stay on your own machines? A local edition with on-device AI is available on request.</p></div>
+        <div class="own-card"><h3><i data-lucide="key-round" style="width:16px;height:16px"></i> No remote access</h3><p class="trust-p">We never take control of your computer and never ask for your passwords. Support is by video call where you share your screen.</p></div>
+      </div>
+    </section>
+
+    <!-- LIMITS -->
+    <section class="panel" id="limits" aria-label="Honest limits">
+      <div class="panel-head"><h2><i data-lucide="badge-alert" style="width:18px;height:18px"></i> Honest limits</h2></div>
+      <ul class="limits">
+        <li><strong>AI can be wrong</strong> — citations make claims checkable; they don’t make them true. Review is mandatory.</li>
+        <li><strong>Your prices, your decisions</strong> — rates come from you. The assistant only adds up the lines you enter.</li>
+        <li><strong>No guaranteed score</strong> — the draft follows the published criteria; nobody can predict an evaluation panel.</li>
+        <li><strong>Gaps stay gaps</strong> — when your library has no evidence, the assistant flags it instead of inventing an answer.</li>
+        <li><strong>This demo</strong> — the fictional files are plain text. Extraction here uses a rule-based parser running in your browser; the full product adds AI for messy PDFs, scans and tables.</li>
+      </ul>
+    </section>
+
+    <!-- FAQ -->
+    <section class="panel" id="faq" aria-label="Questions">
+      <div class="panel-head"><h2><i data-lucide="help-circle" style="width:18px;height:18px"></i> Questions</h2></div>
+      <details><summary>Which file types will the product read?</summary><p>PDF (including scanned pages), Word and Excel. Price schedules in Excel keep their line structure.</p></details>
+      <details><summary>Does it work for public-sector and private RFPs?</summary><p>Yes — RFPs, RFQs, ITTs and tenders from public buyers or companies. The sector selector above shows five examples.</p></details>
+      <details><summary>Where is my data stored?</summary><p>In an isolated workspace, in the data region you choose (EU or US). A local / on-prem edition keeps everything on your own machines.</p></details>
+      <details><summary>Can I try it on my own RFP?</summary><p>The public demo uses fictional files only. Join the waitlist and we’ll invite you to a free trial on your own documents.</p></details>
+      <details><summary>Do you submit bids for us?</summary><p>No. You review, decide and submit. The assistant prepares the draft and the checklists.</p></details>
+    </section>
+
+    <section class="cta-band" aria-label="Join the waitlist">
+      <div>
+        <h2>Be first in line</h2>
+        <p>Pro from $199/month · no setup fees · Remote · Worldwide</p>
+      </div>
+      <div class="cta-actions">
+        <a class="btn btn-primary" href="mailto:LaborX (https://laborx.com/freelancers/users/id475124)?subject=RFP%20Response%20Assistant%20%E2%80%94%20waitlist">Join waitlist</a>
+        <a class="btn btn-ghost" href="mailto:LaborX (https://laborx.com/freelancers/users/id475124)?subject=RFP%20Response%20Assistant%20%E2%80%94%20free%20trial">Start free trial</a>
+      </div>
+    </section>
+
+    <footer class="foot">
+      <p>Nyyo Automation · Remote · Worldwide · <a href="mailto:LaborX (https://laborx.com/freelancers/users/id475124)">LaborX (https://laborx.com/freelancers/users/id475124)</a></p>
+      <p>All organisations, people and documents on this page are fictional. Demo only — not legal or procurement advice.</p>
+    </footer>
+  </div>
+
+  <div class="sticky-hire">
+    <a class="btn btn-primary" href="mailto:LaborX (https://laborx.com/freelancers/users/id475124)?subject=RFP%20Response%20Assistant%20%E2%80%94%20waitlist"><i data-lucide="mail"></i> Join waitlist</a>
+    <a class="btn btn-ghost" href="#demo"><i data-lucide="play"></i><span class="lbl">Demo</span></a>
+  </div>
+
+  <div class="modal hidden" id="viewer" role="dialog" aria-modal="true" aria-labelledby="viewerTitle">
+    <div class="modal-card">
+      <div class="modal-head">
+        <strong id="viewerTitle"></strong>
+        <div class="modal-actions">
+          <a class="btn btn-ghost" id="viewerDl" download><i data-lucide="download"></i><span class="lbl">.txt</span></a>
+          <button type="button" class="btn btn-ghost" id="viewerClose" aria-label="Close"><i data-lucide="x"></i></button>
+        </div>
+      </div>
+      <div class="page-tabs" id="viewerPages"></div>
+      <pre class="doc-page" id="viewerBody"></pre>
+    </div>
+  </div>
+</body>
+</html>
