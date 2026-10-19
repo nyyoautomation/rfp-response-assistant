@@ -16,6 +16,6 @@ Everything on this page runs in your browser. The demo uses a rule-based parser 
 
 **Human review required** — outputs are drafts. Hosting: isolated workspace, EU or US hosting (data region of your choice), local / on-prem option.
 
-Pricing (USD): Starter $79/mo · Pro $199/mo · Team $449/mo · annual billing available · extra RFP $25 · no setup fees. Not open for purchase yet — join the waitlist: LaborX (https://laborx.com/freelancers/users/id475124)
+Pricing (USD): Starter $79/mo · Pro $199/mo · Team $449/mo · annual billing available · extra RFP $25 · no setup fees. Not open for purchase yet. Available on LaborX · [Profile](https://github.com/nyyoautomation)
 
 Nyyo Automation · Remote · Worldwide. All organisations, people and documents in this demo are fictional.
