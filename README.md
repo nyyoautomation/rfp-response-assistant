@@ -14,7 +14,7 @@ Pick a sector (facilities & cleaning, security, IT services, training, construct
 
 Everything on this page runs in your browser. The demo uses a rule-based parser on plain-text sample files; the full product adds AI for messy PDFs, scans and tables.
 
-**Human review required** — outputs are drafts. Hosting: isolated workspace, with the hosting region agreed with you at setup, local / on-prem option.
+**Human review required** — outputs are drafts. Hosting: with the hosting region agreed with you at setup, local / on-prem option.
 
 Plans: Starter · Pro · Team — coming soon, not open for purchase yet. Available on LaborX · [Profile](https://github.com/nyyoautomation)
 
